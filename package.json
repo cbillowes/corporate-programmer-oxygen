@@ -53,6 +53,7 @@
     "gh-pages": "^1.0.0",
     "prettier": "^1.5.3",
     "remark-cli": "^4.0.0",
+    "remark-frontmatter": "^1.2.0",
     "remark-preset-lint-recommended": "^3.0.1",
     "standard-version": "^4.3.0",
     "stylefmt": "^6.0.0",
