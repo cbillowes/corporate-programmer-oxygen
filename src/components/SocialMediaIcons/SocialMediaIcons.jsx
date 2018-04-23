@@ -4,17 +4,17 @@ import "./SocialMediaIcons.css";
 
 class SocialMediaIcons extends React.Component {
   render() {
-    const { urls, color } = this.props;
-    if (urls && urls.length > 0) {
+    const { entries, color } = this.props;
+    if (entries && entries.length > 0) {
       return (
         <div className="social-media-icons">
-          {urls.map(url => (
+          {entries.map(entry => (
             <SocialIcon
-              key={url}
-              className="social-media-icon"
-              url={url}
-              color={color}
+              key={entry.url}
+              className={"social-media-icon " + entry.type}
+              url={entry.url}
               style={{ height: null, width: null }}
+              color={color}
             />
           ))}
         </div>

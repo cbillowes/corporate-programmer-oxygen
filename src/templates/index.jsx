@@ -81,8 +81,8 @@ class IndexTemplate extends React.Component {
                   <PageTitle text={config.siteTitle} />
                   <PageDescription text={config.siteDescription} />
                   <SocialMediaIcons
-                    urls={config.siteSocialUrls}
-                    color="currentColor"
+                    entries={config.siteSocialUrls}
+                    color={"currentColor"}
                   />
                 </div>
               </div>
