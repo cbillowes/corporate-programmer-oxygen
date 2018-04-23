@@ -1,11 +1,11 @@
 /* The details of your blog. Defined in ghost/settings/ */
 .page-title {
     margin: 10px 0;
-    font-size: 5rem;
-    letter-spacing: -1px;
+    font-size: 10rem;
     font-weight: 700;
     font-family: "Open Sans", sans-serif;
     color: #b2c1d1;
+    margin: 20px -300px;
 }
 
 /* Add subtle load-in animation for content on the home page */
