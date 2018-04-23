@@ -1,0 +1,13 @@
+{
+  "id": "clarice.bouwer",
+  "name": "Clarice Bouwer",
+  "image": "https://avatars1.githubusercontent.com/u/4352871?s=150&v=4",
+  "url": "https://github.com/cbillowes",
+  "location": "Johannesburg, South Africa",
+  "bio": "I'm a curious web generalist who's learned that the bigger picture is about people. I am a @ChromeDevTools enthusiast.",
+  "socialUrls": [
+    "https://github.com/gatsbyjs",
+    "https://twitter.com/gatsbyjs",
+    "mailto:gatsbyjs@example.com"
+  ]
+}
