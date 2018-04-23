@@ -2,7 +2,7 @@
 title: "The “perfect” illusion"
 slug: "the-perfect-illusion"
 cover: "https://picsum.photos/1280/500/?image=1004"
-date: "2016-05-01"
+date:   2016-05-01 19:18:00 +0200
 category: "tech"
 tags:
     - mindset
