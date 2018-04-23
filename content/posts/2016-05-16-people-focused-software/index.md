@@ -4,8 +4,8 @@ cover: "https://picsum.photos/1280/500/?image=395"
 date:   2016-05-16 23:11:32 +0200
 category: "tech"
 tags:
-    - mindset
-    - relationships
+    - Mindset
+    - Relationships
 ---
 
 > The art of making software for people with people.

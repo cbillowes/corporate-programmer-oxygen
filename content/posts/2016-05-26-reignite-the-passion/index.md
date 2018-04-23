@@ -4,9 +4,9 @@ cover: "https://picsum.photos/1280/500/?image=1011"
 date: 2016-05-26 22:21:22 +0200
 category: "tech"
 tags:
-    - comfort-zone
-    - productivity
-    - mindset
+    - Comfort Zone
+    - Productivity
+    - Mindset
 ---
 
 > Do you remember how excited you were when you wrote your first program? It's easy to

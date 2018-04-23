@@ -3,8 +3,8 @@ title: Know your limits
 cover: "https://picsum.photos/1280/500/?image=177"
 date:   2017-05-12 21:02:04 +0200
 tags: 
-    - mindset 
-    - comfort-zone
+    - Mindset 
+    - Comfort Zone
 ---
 
 > "Know your limits, know when to give, know when to demand, know when to say

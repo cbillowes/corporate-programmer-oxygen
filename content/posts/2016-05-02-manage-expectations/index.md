@@ -4,8 +4,8 @@ cover: "https://picsum.photos/1280/500/?image=1062"
 date:   2016-05-02 19:20:00 +0200
 category: "tech"
 tags:
-    - relationships
-    - communication
+    - Relationships
+    - Communication
 ---
 
 > Do you keep business informed? Business won't know when things are not working

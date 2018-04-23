@@ -3,7 +3,7 @@ title:  Simulating mobile devices in Chrome
 cover: "https://picsum.photos/1280/500/?image=3"
 date:   2016-06-09 00:17:28 +0200
 tags: 
-    - technical
+    - Technical
 ---
 
 > Discover the simulation power behind the Device Mode feature in Google Chrome.

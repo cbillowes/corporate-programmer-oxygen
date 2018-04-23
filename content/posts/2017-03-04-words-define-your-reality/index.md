@@ -3,8 +3,8 @@ title:  "Words define your reality"
 cover: "https://picsum.photos/1280/500/?image=180"
 date:   2017-03-04 00:01:00 +0200
 tags: 
-    - mindset 
-    - relationships
+    - Mindset 
+    - Relationships
 ---
 
 > "Words are free. It's how you use them, that may cost you." - KushandWizdom

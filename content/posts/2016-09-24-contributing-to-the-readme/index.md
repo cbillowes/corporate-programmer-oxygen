@@ -3,9 +3,9 @@ title:  "Contributing to the README"
 cover: "https://picsum.photos/1280/500/?image=528"
 date:   2016-09-24 15:00:49 +0200
 tags: 
-    - communication
-    - relationships
-    - technical
+    - Communication
+    - Relationships
+    - Technical
 ---
 > When someone new works on your repository, make sure it is easy to get setup.
 

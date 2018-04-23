@@ -3,9 +3,9 @@ title:  "Rubyfuza 2017 Conference"
 cover: "https://picsum.photos/1280/500/?image=0"
 date:   2017-02-11 23:00:00 +0200
 tags: 
-    - mindset 
-    - comfort-zone
-    - relationships
+    - Mindset 
+    - Comfort Zone
+    - Relationships
 ---
 
 > I spoke at Rubyfuza 2017 in Cape Town about how Imposter Syndrome impacts

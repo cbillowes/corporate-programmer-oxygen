@@ -3,7 +3,7 @@ title:  "Byte order mark"
 cover: "https://picsum.photos/1280/500/?image=8"
 date:   2016-10-09 14:28:00 +0200
 tags: 
-    - technical
+    - Technical
 ---
 
 > The byte order mark or BOM is an invisible Unicode magic number that can be

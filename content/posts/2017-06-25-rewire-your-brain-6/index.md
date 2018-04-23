@@ -4,8 +4,8 @@ slug: "rewire-your-brain-6"
 date:   2017-06-26 19:05:39 +0200
 cover: "https://picsum.photos/1280/500/?image=821"
 tags: 
-    - mindset 
-    - productivity
+    - Mindset 
+    - Productivity
 ---
 
 > Lara Boyd challenges us by asking how do we learn? And why does some of 

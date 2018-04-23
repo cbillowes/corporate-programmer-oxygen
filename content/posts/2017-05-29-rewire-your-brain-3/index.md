@@ -4,8 +4,8 @@ slug: "rewire-your-brain-3"
 cover: "https://picsum.photos/1280/500/?image=891"
 date:   2017-05-29 11:16:43 +0200
 tags: 
-    - mindset 
-    - productivity 
+    - Mindset 
+    - Productivity 
 ---
 
 > Oliver Goldsmith says that the mind is ever ingenious in making its own distress.

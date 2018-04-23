@@ -4,7 +4,7 @@ cover: "https://picsum.photos/1280/500/?image=192"
 date:   2016-05-07 15:28:21 +0200
 category: "tech"
 tags:
-    - communication
+    - Communication
 ---
  
 > Do people look confused when you talk to them? Only you can truly know what

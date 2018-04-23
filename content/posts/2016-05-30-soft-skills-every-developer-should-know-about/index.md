@@ -4,7 +4,7 @@ slug: "soft-skils-every-developer-should-know-about"
 cover: "https://picsum.photos/1280/500/?image=770"
 date: 2016-05-30 20:37:06 +0200
 tags: 
-    - mindset
+    - Mindset
 ---
 
 > "We only grow when we are doing things that makes us uncomfortable." by

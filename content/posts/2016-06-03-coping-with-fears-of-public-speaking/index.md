@@ -3,7 +3,7 @@ title:  "Coping with fears of public speaking"
 cover: "https://picsum.photos/1280/500/?image=633"
 date:   2016-06-03 21:23:59 +0200
 tags:
-    - comfort-zone
+    - Comfort Zone
 ---
 
 > Fears sabotage our success and impede improvements we can make.

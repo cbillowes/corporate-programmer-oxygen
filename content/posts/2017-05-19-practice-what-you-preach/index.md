@@ -3,9 +3,9 @@ title: Practice what you preach
 cover: "https://picsum.photos/1280/500/?image=129"
 date:   2017-05-19 18:29:22 +0200
 tags: 
-    - mindset 
-    - communication
-    - relationships
+    - Mindset 
+    - Communication
+    - Relationships
 ---
 
 > "Your beliefs don't make you a better person, our behavior does."

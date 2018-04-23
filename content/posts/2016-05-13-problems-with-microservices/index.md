@@ -4,7 +4,7 @@ cover: "https://picsum.photos/1280/500/?image=1078"
 date:   2016-05-13 23:10:19 +0200
 category: "tech"
 tags:
-    - technical
+    - Technical
 ---
 
 > After an interesting debate, I decided to explore some of the problems that

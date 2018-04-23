@@ -3,7 +3,7 @@ title:  "Some new HTML5 elements"
 cover: "https://picsum.photos/1280/500/?image=526"
 date:   2016-06-18 13:26:44 +0200
 tags: 
-    - technical
+    - Technical
 ---
 
 The HTML5 specification has introduced more elements to aid us with

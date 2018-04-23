@@ -4,7 +4,7 @@ cover: "https://picsum.photos/1280/500/?image=396"
 date:   2016-05-09 23:30:10 +0200
 category: "tech"
 tags:
-    - productivity
+    - Productivity
 ---
 
 > Are you busy but don't feel productive? I feel this way sometimes. It is

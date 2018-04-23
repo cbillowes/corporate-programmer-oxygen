@@ -3,9 +3,9 @@ title:  "Sustainable living"
 cover: "https://picsum.photos/1280/500/?image=1039"
 date:   2016-09-02 21:50:36 +0200
 tags: 
-    - mindset 
-    - productivity
-    - time-management
+    - Mindset 
+    - Productivity
+    - Time Management
 ---
 
 > The aim is simple. I wish to boost my overall sense of wellbeing by living a

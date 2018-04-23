@@ -3,9 +3,9 @@ title: Change starts with you
 cover: "https://picsum.photos/1280/500/?image=189"
 date:   2017-05-12 12:52:25 +0200
 tags: 
-    - mindset 
-    - comfort-zone
-    - relationships
+    - Mindset 
+    - Comfort Zone
+    - Relationships
 ---
 
 > Mahatma Gandhi says to start changing yourself if you want to change the life

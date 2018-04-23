@@ -3,8 +3,8 @@ title:  "The imposter within"
 cover: "https://picsum.photos/1280/500/?image=680"
 date:   2016-11-13 11:23:10 +0200
 tags: 
-    - mindset 
-    - comfort-zone
+    - Mindset 
+    - Comfort Zone
 ---
 
 > “Did I do anything wrong today,” he said, “or has the world always been like

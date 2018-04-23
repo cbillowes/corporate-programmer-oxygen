@@ -3,7 +3,7 @@ title:  "Making red-tape allies"
 cover: "https://picsum.photos/1280/500/?image=1020"
 date:   2016-07-04 20:34:56 +0200
 tags: 
-    - productivity
+    - Productivity
 ---
 
 > Having allies that are exposed to just as much red-tape as you can give you

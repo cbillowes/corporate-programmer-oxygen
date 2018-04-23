@@ -4,8 +4,8 @@ slug: "rewire-your-brain-2"
 cover: "https://picsum.photos/1280/500/?image=881"
 date:   2017-05-25 20:03:54 +0200
 tags:
-    - mindset 
-    - productivity 
+    - Mindset 
+    - Productivity 
 ---
 
 > Dr. Hilary Stokes says that we have trillions of brain cells, resulting in

@@ -3,8 +3,8 @@ title:  "Discovering fiddles"
 cover: "https://picsum.photos/1280/500/?image=527"
 date:   2016-06-19 19:13:00 +0200
 tags: 
-    - technical
-    - productivity
+    - Technical
+    - Productivity
 ---
 
 If you are new to fiddles, it's an online code playground that let's you

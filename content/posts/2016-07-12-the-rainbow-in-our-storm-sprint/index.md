@@ -3,8 +3,8 @@ title:  "The rainbow in our storm sprint"
 cover: "https://picsum.photos/1280/500/?image=903"
 date:   2016-07-12 22:24:49 +0200
 tags: 
-    - mindset 
-    - productivity
+    - Mindset 
+    - Productivity
 ---
 
 > Communication is essential to minimize stress and get the support a team

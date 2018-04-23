@@ -3,7 +3,7 @@ title: "Defusing Stressful Emotions"
 date:   2017-07-03 19:05:39 +0200
 cover: "https://picsum.photos/1280/500/?image=1074"
 tags: 
-    - mindset
+    - Mindset
 ---
 
 > Mark Twain said, "I am an old man and I have known a great many troubles, 

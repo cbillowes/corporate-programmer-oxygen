@@ -4,7 +4,7 @@ cover: "https://picsum.photos/1280/500/?image=9"
 date:   2016-05-14 01:30:45 +0200
 category: "tech"
 tags:
-    - productivity
+    - Productivity
 ---
 
 > Having a pet project has some powerful benefits. Do you have one? What

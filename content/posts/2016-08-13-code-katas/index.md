@@ -3,7 +3,7 @@ title:  "Code katas"
 cover: "https://picsum.photos/1280/500/?image=532"
 date:   2016-08-13 19:44:42 +0200
 tags: 
-    - productivity
+    - Productivity
 ---
 
 > A fun way to practice and familiarize yourself with development tools,

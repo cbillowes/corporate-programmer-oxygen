@@ -4,9 +4,9 @@ cover: "https://picsum.photos/1280/500/?image=7"
 date:   2016-05-04 23:56:55 +0200
 category: "tech"
 tags:
-    - relationships
-    - communication
-    - productivity
+    - Relationships
+    - Communication
+    - Productivity
 ---
  
 > Do you form relationships with testers? Teaming up with testers from the

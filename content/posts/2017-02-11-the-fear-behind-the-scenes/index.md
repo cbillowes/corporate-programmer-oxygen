@@ -2,8 +2,8 @@
 title:  "The fear behind the scenes"
 cover: "https://picsum.photos/1280/500/?image=171"
 date:   2017-02-11 23:25:57 +0200
-    - mindset 
-    - comfort-zone
+    - Mindset 
+    - Comfort Zone
 ---
 
 > "The reason why we struggle with insecurity is because we compare our behind

@@ -3,7 +3,7 @@ title: "Streamline operations communication"
 cover: "https://picsum.photos/1280/500/?image=119"
 date:   2016-06-30 22:36:38 +0200
 tags: 
-    - productivity
+    - Productivity
 ---
 
 > Get the support you need to make the product and operating the product

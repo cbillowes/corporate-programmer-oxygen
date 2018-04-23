@@ -3,9 +3,9 @@ title:  "Discovering yourself"
 cover: "https://picsum.photos/1280/500/?image=103"
 date:   2017-02-27 23:16:49 +0200
 tags: 
-    - mindset 
-    - communication
-    - relationships
+    - Mindset 
+    - Communication
+    - Relationships
 ---
 
 > “Knowing yourself is the beginning of all wisdom.” ― Aristotle

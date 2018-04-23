@@ -4,8 +4,8 @@ slug: "rewire-your-brain-5"
 date:   2017-06-25 22:02:42 +0200
 cover: "https://picsum.photos/1280/500/?image=874"
 tags: 
-    - mindset 
-    - productivity 
+    - Mindset 
+    - Productivity 
 ---
 
 > Virginia Satir says that we can learn something new anytime we believe we can.

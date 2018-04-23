@@ -6,9 +6,9 @@ date:   2016-04-28 20:22:52 +0200
 author: "clarice.bouwer"
 category: "tech"
 tags:
-    - personal-brand
-    - relationships
-    - comfort-zone
+    - Personal Brand
+    - Relationships
+    - Comfort Zone
 ---
 
 > Do you feel like a number? Making a name for yourself in the software

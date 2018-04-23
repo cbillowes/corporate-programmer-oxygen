@@ -3,7 +3,7 @@ title:  "Design changes in HTML5"
 date:   2016-06-16 10:00:00 +0200
 cover: "https://picsum.photos/1280/500/?image=20"
 tags: 
-    - technical
+    - Technical
 ---
 
 Elements, attributes, and attribute values are semantic according to the

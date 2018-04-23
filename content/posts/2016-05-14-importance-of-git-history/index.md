@@ -4,7 +4,7 @@ cover: "https://picsum.photos/1280/500/?image=24"
 date:   2016-05-14 21:04:29 +0200
 category: "tech"
 tags:
-    - technical
+    - Technical
 ---
 
 > Version control is like time travel for source code. If commits are monolithic

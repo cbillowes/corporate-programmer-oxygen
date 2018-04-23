@@ -3,7 +3,7 @@ title:  "HTML5 structural semantics"
 cover: "https://picsum.photos/1280/500/?image=36"
 date:   2016-06-17 12:02:38 +0200
 tags: 
-    - technical
+    - Technical
 ---
 
 In 2005 [Google sampled](https://developers.google.com/webmasters/state-of-the-web/2005/)

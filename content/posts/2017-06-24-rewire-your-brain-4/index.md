@@ -4,8 +4,8 @@ slug: "rewire-your-brain-4"
 cover: "https://picsum.photos/1280/500/?image=889"
 date:   2017-06-24 20:35:14 +0200
 tags: 
-    - mindset 
-    - productivity 
+    - Mindset 
+    - Productivity 
 ---
 
 > Virginia Satir says that you have learned what you have learned very well.

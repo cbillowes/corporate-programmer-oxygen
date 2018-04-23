@@ -4,8 +4,8 @@ slug: "rewire-your-brain-7"
 date:   2017-06-27 18:05:39 +0200
 cover: "https://picsum.photos/1280/500/?image=800"
 tags: 
-    - mindset 
-    - productivity
+    - Mindset 
+    - Productivity
 ---
 
 > Germany Kent says that it's a funny thing about life, once you begin to take 

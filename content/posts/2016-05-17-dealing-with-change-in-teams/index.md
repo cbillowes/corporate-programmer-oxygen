@@ -4,9 +4,9 @@ cover: "https://picsum.photos/1280/500/?image=389"
 date:   2016-05-17 21:44:49 +0200
 category: "tech"
 tags:
-    - mindset
-    - relationships
-    - productivity
+    - Mindset
+    - Relationships
+    - Productivity
 ---
 
 > It's sad when people leave because bonds are formed but we can't stay in the

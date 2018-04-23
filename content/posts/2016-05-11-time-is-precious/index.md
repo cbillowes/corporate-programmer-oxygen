@@ -4,8 +4,8 @@ cover: "https://picsum.photos/1280/500/?image=1077"
 date:   2016-05-11 23:16:23 +0200
 category: "tech"
 tags:
-    - productivity
-    - time-management
+    - Productivity
+    - Time Management
 ---
 
 > When last did you just stop to smell a flower? Or take a peaceful walk
