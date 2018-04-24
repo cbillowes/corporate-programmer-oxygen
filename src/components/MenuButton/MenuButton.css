@@ -21,7 +21,6 @@
 .menu-button:hover {
     background: #CC334F;
     border-radius: 5px;
-    color: #fff;
 }
 
 .menu-button:focus {
@@ -55,10 +54,18 @@
     background: #CC334F;
     border-color: #CC334F;
     color: #fff;
+    border-radius: 3px;
     -webkit-transform: translate3d(94px, 0, 0);
     -ms-transform: translate3d(94px, 0, 0);
     transform: translate3d(94px, 0, 0);
     transition: all 0.3s ease;
+}
+
+.nav-opened .menu-button:hover {
+    color: #000;
+    background: #fff;
+    border-color: #fff;
+    text-shadow: none;
 }
 
 .nav-opened .menu-button .word {
