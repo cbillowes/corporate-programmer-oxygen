@@ -44,7 +44,7 @@ a:hover { outline: 0; }
 abbr[title] { border-bottom: 1px dotted; }
 
 b,
-strong { font-weight: bold; }
+strong { font-weight: 500; }
 dfn { font-style: italic; }
 
 h1 {
@@ -141,7 +141,7 @@ legend {
     padding: 0;
 }
 textarea { overflow: auto; }
-optgroup { font-weight: bold; }
+optgroup { font-weight: 500; }
 
 table {
     border-collapse: collapse;
@@ -239,14 +239,14 @@ html {
 body {
     height: 100%;
     max-height: 100%;
-    /*font-family: "Merriweather", serif;*/
     font-family: "Roboto", sans-serif;
+    font-weight: 300;
     font-size: 20px;
     line-height: 1.75em;
     color: #b2c1d1;
     background-color: #1E2832;
     text-rendering: geometricPrecision;
-    text-shadow: 1px 1px 2px #000;
+    text-shadow: 1px 1px 3px #000;
 }
 
 ::-moz-selection {
@@ -346,7 +346,7 @@ dl dt {
     text-align: right;
     text-overflow: ellipsis;
     white-space: nowrap;
-    font-weight: 700;
+    font-weight:500;
     margin-bottom: 1em;
 }
 
@@ -399,10 +399,10 @@ blockquote small {
 blockquote small::before { content: "\2014 \00A0"; }
 
 blockquote cite {
-    font-weight: 700;
+    font-weight: 500;
 }
 
-blockquote cite a { font-weight: normal; }
+blockquote cite a { font-weight: 300; }
 
 mark {
     background-color: #f0e222ec;
@@ -454,7 +454,7 @@ kbd {
     color: #666;
     text-shadow: #fff 0 1px 0;
     font-size: 0.9em;
-    font-weight: 700;
+    font-weight: 500;
     background: #f4f4f4;
     border-radius: 4px;
     box-shadow:
@@ -526,7 +526,7 @@ input:not([type="radio"]):not([type="checkbox"]) {
     outline: 0;
     font-family: 'Open Sans', sans-serif;
     font-size: 1.6rem;
-    font-weight: 100;
+    font-weight: 400;
     line-height: 1.4em;
     background: #fff;
     border: #e7eef2 1px solid;
@@ -581,7 +581,7 @@ button {
     font-family: 'Open Sans', sans-serif;
     font-size: 11px; /* Hacks targeting Firefox. */
     line-height: 13px; /* Hacks targeting Firefox. */
-    font-weight: 300;
+    font-weight: 400;
     text-align: center;
     letter-spacing: 1px;
     text-transform: uppercase;
