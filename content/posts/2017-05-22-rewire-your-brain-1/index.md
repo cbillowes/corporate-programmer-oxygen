@@ -9,7 +9,7 @@ tags:
 ---
 
 > John Medina said, "what you do and learn in life physically changes what your
-  brain looks like - it literally rewires it."
+> brain looks like - it literally rewires it."
 
 You are learning something new everyday. Whether it be a new skill, new way of
 doing something, discovering something you haven't encountered before, exploring
@@ -58,11 +58,11 @@ the ideas behind these techniques and models.
 I have a deep personal interest in this topic as I desperately want to rewire
 my brain for a healthier approach to life. I do hope you benefit from this too.
 
----
+* * *
 
 ## References
 
-* [After watching this, your brain will not be the same](https://www.youtube.com/watch?v=LNHBMFCzznE),
-  Lara Boyd at TEDxVancouver
-* [5 Ways To Rewire Your Brain For Meaningful Life Changes](https://www.mindbodygreen.com/0-11762/5-ways-to-rewire-your-brain-for-meaningful-life-changes.html),
-  MindBodyGreen, Dr. Hilary Stokes
+-   [After watching this, your brain will not be the same](https://www.youtube.com/watch?v=LNHBMFCzznE),
+    Lara Boyd at TEDxVancouver
+-   [5 Ways To Rewire Your Brain For Meaningful Life Changes](https://www.mindbodygreen.com/0-11762/5-ways-to-rewire-your-brain-for-meaningful-life-changes.html),
+    MindBodyGreen, Dr. Hilary Stokes
