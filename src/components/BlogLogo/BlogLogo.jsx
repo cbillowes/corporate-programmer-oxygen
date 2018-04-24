@@ -4,12 +4,11 @@ import "./BlogLogo.css";
 
 class BlogLogo extends Component {
   render() {
-    const { logo, url, title } = this.props;
-    if (logo) {
+    const { url, title } = this.props;
+    if (title) {
       return (
         <Link className="blog-logo" to={url || "/"}>
-          {/* style={{ boxShadow: "none" }}> */}
-          <img src={logo} alt={title} />
+          {title}
         </Link>
       );
     }
