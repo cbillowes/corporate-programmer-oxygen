@@ -625,6 +625,17 @@ button {
     vertical-align: middle;
 }
 
+.figure {
+    text-align: center;
+    display: block;
+}
+
+.figure-caption {
+    font-size: 0.75em;
+    display: block;
+    text-align: center;
+}
+
 /* ==========================================================================
       Third Party Elements - Embeds from other services
    ========================================================================== */
