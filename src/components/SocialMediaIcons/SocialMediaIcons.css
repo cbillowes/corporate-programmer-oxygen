@@ -31,6 +31,14 @@
     color: #CC334F;
 }
 
+.main-header .social-media-icon.github .social-svg:hover {
+    color: #269f42;
+}
+
+.main-header .social-media-icon.twitter .social-svg:hover {
+    color: #1da1f2;
+}
+
 /* ==========================================================================
        Media Queries - Smaller than 900px
    ========================================================================== */
