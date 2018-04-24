@@ -7,7 +7,7 @@ tags:
 ---
 
 > Mark Twain said, "I am an old man and I have known a great many troubles, 
-  but most of them never happened."
+> but most of them never happened."
 
 It’s unsustainable to experience many days feeling exhausted, uninspired and anxious. 
 I believe the biggest contributing factor is **superficial stress**. Stress that is self-made 
@@ -26,7 +26,7 @@ That one event can set the tone of the rest of your day.
 I have gathered some techniques which I try incorporate in my personal and work life to defuse 
 and better handle stressful emotions.
 
-* **Question the unknown**
+### Question the unknown
 
 When dealing with unknown situations I ask myself three simple questions:
 
@@ -38,12 +38,12 @@ Present in the moment
 I practice mindfulness by focusing on the present so that my intentions are deliberate and I 
 am not thinly spread. I am more focused, productive and have more time.
 
-* **Aware of triggers**
+### Aware of triggers
 
 Being aware of my reactions empowers me to discover triggers which I can use to break the negative 
 reinforcing loop. This improves the behavior over time giving me more control over it.
 
-* **Distract**
+### Distract
 
 When things are going south fast, a distraction can always help clear my thoughts. I can politely 
 walk away from a conversation or step out of a meeting: breathe, take a walk, read an article, listen 
@@ -60,6 +60,7 @@ mistakes are made. The same can apply for constant worrying as our thoughts take
 paths constantly ripping us away from the present.
 
 ## My final thoughts
+
 Stress doesn’t have to consume you. There are simple techniques that we can 
 apply to our daily lives to minimize the impact that it can have on us.
 
@@ -74,7 +75,7 @@ I am more productive. I am more free. And this makes me happy.
 
 ## References
 
-* [Headspace](https://www.headspace.com/): A meditation app
-* [Five steps to mindfulness](https://www.mindful.org/five-steps-to-mindfulness/) by Thich Nhat Hanh
-* [12 Techniques to stop worrying](http://www.pickthebrain.com/blog/stop-worrying/) by Cindy Holbrook
-* [Meditation isn’t about suppressing your thoughts and emotions](https://medium.com/meditation-without-mysticism/meditation-isn-t-about-suppressing-your-thoughts-and-emotions-4de935d61213) by J. D. Andre
+-   [Headspace](https://www.headspace.com/), a meditation app
+-   [Five steps to mindfulness](https://www.mindful.org/five-steps-to-mindfulness/) by Thich Nhat Hanh
+-   [12 Techniques to stop worrying](http://www.pickthebrain.com/blog/stop-worrying/) by Cindy Holbrook
+-   [Meditation isn’t about suppressing your thoughts and emotions](https://medium.com/meditation-without-mysticism/meditation-isn-t-about-suppressing-your-thoughts-and-emotions-4de935d61213) by J. D. Andre
