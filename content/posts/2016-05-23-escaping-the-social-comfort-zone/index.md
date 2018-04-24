@@ -10,7 +10,7 @@ tags:
 ---
 
 > "I think that we grow when we are outside our comfort zone. If it's not
-  breaking you down, it's not building you up." quoted by Scott Hanselman
+> breaking you down, it's not building you up." quoted by Scott Hanselman
 
 The comfort zone. What a wonderful place. It's so safe to be in. You're
 familiar with the surroundings, it has few surprises and everything just makes
@@ -28,6 +28,7 @@ is even harder when you lack self-confidence. Here are the top three things
 I've done that have helped me build some social confidence.
 
 ## Start conversations
+
 When I experienced issues with whatever technology or process, I'd strike up a
 conversation with someone higher up than me. I'd ask questions and try
 brainstorm with them.
@@ -47,21 +48,23 @@ software developers - something the old me would never have done.
 The more you do it, the less scary it becomes.
 
 ## Attend events with friends
+
 I feel more comfortable to sit back and absorb information without engaging
-with *strangers* at an event. I'm shy and self-conscious. But now, I act a bit
+with _strangers_ at an event. I'm shy and self-conscious. But now, I act a bit
 differently.
 
 I must admit that it's easier for me to strike up a conversation with someone
 I don't know when I'm with someone I do know. The more the merrier.
 
 I'd go to meetups or events with my husband (also a developer) or other dev
-buddies and somehow feel *stronger*. This makes it easier for me to initiate
+buddies and somehow feel _stronger_. This makes it easier for me to initiate
 conversations with the speaker or other developers at the event.
 
 **Tip**: The more you attend community events, the more familiar the people
 around you become.
 
 ## Talk to strangers
+
 Start a conversation with a stranger. Elevators and queues are the easiest
 place to start.
 
@@ -76,6 +79,7 @@ This helps build confidence when talking to people you don't know which helps
 when you want to start networking at events or other social gatherings.
 
 ## My final thoughts
+
 I don't know how many software developers are self-conscious or lack
 self-confidence but I know many who are socially awkward.
 
@@ -88,5 +92,5 @@ starting out. It also helps you network and grow your professional
 reputation. With that comes a lot of career opportunity.
 
 > "I think that we grow when we are outside our comfort zone. If it's not
-  breaking you down, it's not building you up."
-  ~ [Scott Hanselman](http://www.hanselman.com/blog/AmIReallyADeveloperOrJustAGoodGoogler.aspx)
+> breaking you down, it's not building you up."
+> ~ [Scott Hanselman](http://www.hanselman.com/blog/AmIReallyADeveloperOrJustAGoodGoogler.aspx)

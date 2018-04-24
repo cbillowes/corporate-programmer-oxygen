@@ -7,7 +7,7 @@ tags:
 ---
 
 > Get the support you need to make the product and operating the product
-  a success.
+> a success.
 
 Teams cannot focus on sprint work when there are multiple communication channels
 filtering into the team at any given point in time.
@@ -19,12 +19,12 @@ filtering into the team at any given point in time.
 
 This form of communication can occur for many reasons:
 
-* Massive panic due to downtime or issues in production.
-* To get information for troubleshooting or pinpointing a problem.
-* Little to no escalation procedures or escalation procedures are not followed.
-* Lack of understanding the overall system or product architecture.
-* Little to no documentation of the overall system or product architecture.
-* Go-to people within a team who can quickly assist in the event of failure.
+-   Massive panic due to downtime or issues in production.
+-   To get information for troubleshooting or pinpointing a problem.
+-   Little to no escalation procedures or escalation procedures are not followed.
+-   Lack of understanding the overall system or product architecture.
+-   Little to no documentation of the overall system or product architecture.
+-   Go-to people within a team who can quickly assist in the event of failure.
 
 Obviously both the team and the people outside the team, including the users,
 want the system to be up and stable.
@@ -35,6 +35,7 @@ streamline the communication coming into the team so that you can support the
 product sustainably.
 
 ## Support role
+
 Your team could introduce a rotating support role where one technical person
 handles all incoming requests for that sprint and filters it into the team
 if necessary.
@@ -63,6 +64,7 @@ it if they have the capacity to do so as long as they communicate it with the
 rest of the team.
 
 ## Operations team
+
 You may be fortunate enough to have an operations team within your organization
 that handles the bulk of the support role for you.
 
@@ -85,21 +87,23 @@ feedback regarding the resolution of issues. Visibility to this system is
 essential as tickets can get lost in heaps of corporate emails.
 
 ## Monitoring & feedback loops
+
 No team can function optimally without appropriate monitoring in place.
 
 It is essential to have your systems monitored with quick feedback loops so that
 you know when something is down or failing. Some examples include:
 
-* System health checks
-* Product and service availability and uptime
-* Dependency integration points are working
-* Changes you have made have not affected other features or products
-  (automated regression test suite)
+-   System health checks
+-   Product and service availability and uptime
+-   Dependency integration points are working
+-   Changes you have made have not affected other features or products
+    (automated regression test suite)
 
 When something does go down, dependent product teams need to be notified. This
 applies for when things are up and running again.
 
 ## Reactive systems design
+
 You could look into building your systems to be more
 [reactive](http://www.reactivemanifesto.org/) meaning that they respond in a
 timely manner, stay responsive when dependencies fail, respond under varying
@@ -110,6 +114,7 @@ the systems back up and running without hindering the user experience to a
 large extent.
 
 ## My final thoughts
+
 Fighting fires is a tedious and stressful part of software development
 especially in larger organizations with what seem to be millions of integration
 points. Not many people know or understand the bigger picture.

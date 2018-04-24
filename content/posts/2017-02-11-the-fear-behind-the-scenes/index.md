@@ -7,20 +7,20 @@ date:   2017-02-11 23:25:57 +0200
 ---
 
 > "The reason why we struggle with insecurity is because we compare our behind
-   the scenes with everyone else's highlight reel," Steven Furtick
+>  the scenes with everyone else's highlight reel," Steven Furtick
 
 Think of someone successful in the industry who you admire. This person doesn't
 have to be well known, but to you this person is doing amazing things.
 Things you probably don't think you can do or achieve. Then consider the
 following questions.
 
-* How often do you compare yourself to this person?
-* Do you feel inferior to this person?
-* Do you want to be more like this person?
-* Do you think this person just naturally succeeds?
-* Do you think that you can be as successful as this person?
-* Why do you consider this person to be successful?
-* How often do you consider the struggles and challenges this person faces?
+-   How often do you compare yourself to this person?
+-   Do you feel inferior to this person?
+-   Do you want to be more like this person?
+-   Do you think this person just naturally succeeds?
+-   Do you think that you can be as successful as this person?
+-   Why do you consider this person to be successful?
+-   How often do you consider the struggles and challenges this person faces?
 
 ## Subjective perspective
 
@@ -42,9 +42,9 @@ only see what they are projecting.
 
 With that said, how often do you
 
-* consider yourself to be successful?
-* recognize when you have succeeded at something?
-* appreciate the effort you put in and celebrate the win?
+-   consider yourself to be successful?
+-   recognize when you have succeeded at something?
+-   appreciate the effort you put in and celebrate the win?
 
 ## Imposter Syndrome
 
@@ -118,7 +118,7 @@ I am not always exposed to the effort and pain involved in the process prior to
 the outcome.
 
 > The reason why we struggle with insecurity is because we compare our behind
-  the scenes with everyone else's highlight reel. ― Steven Furtick
+> the scenes with everyone else's highlight reel. ― Steven Furtick
 
 So, now I know that when I look at successful people, I am only seeing half
 the picture. I didn't consider that these people are ordinary human

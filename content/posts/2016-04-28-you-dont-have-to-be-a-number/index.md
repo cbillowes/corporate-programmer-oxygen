@@ -12,7 +12,7 @@ tags:
 ---
 
 > Do you feel like a number? Making a name for yourself in the software
-  development community helps build street cred in the corporate world.
+> development community helps build street cred in the corporate world.
 
 When you join the corporate world, you become a number. At least, that is what
 I heard - and believed. The game involves a lot of players and you need to play
@@ -32,6 +32,7 @@ processes. It was daunting to say the least. How can you avoid to be just a
 number in this vast corporate ocean?
 
 ## Create your identity
+
 Let me throw names out there: [Jeff Atwood](http://blog.codinghorror.com/),
 [Scott Hanselman](http://www.hanselman.com/), [John Sonmez](http://simpleprogrammer.com/),
 [Jon Skeet](https://codeblog.jonskeet.uk/), [Kent Beck](http://c2.com/cgi/wiki?KentBeck),
@@ -51,12 +52,13 @@ I tried blogging in my career. I had five separate blogs with a mixture of
 content that never gain traction. I probably posted under 10 posts in total. I
 wasn't consistent or focused. I failed dismally but have learned from my mistakes.
 
->At the time of writing, John Sonmez at [simpleprogrammer.com](http://simpleprogrammer.com/)
-is giving a free 3 week e-mail course to [boost](http://devcareerboost.com/blog-course/)
-your software development career. The insights and tips provided here are a sure
-way to create your own identity.
+> At the time of writing, John Sonmez at [simpleprogrammer.com](http://simpleprogrammer.com/)
+> is giving a free 3 week e-mail course to [boost](http://devcareerboost.com/blog-course/)
+> your software development career. The insights and tips provided here are a sure
+> way to create your own identity.
 
 ## Build relationships
+
 You are going to be working with a lot of different types of people. Roles seem
 to play a big part in the corporate game although I still find these lines blurry.
 Dependencies can be like a large spider web and not everyone is aware of the
@@ -72,6 +74,7 @@ This is not some way of social engineering people to do what you need them to do
 This is about working with people and learning from them.
 
 ## Sketch the bigger picture
+
 If you stay confined to your immediate environment you have little exposure.
 As you start building your relationships and understanding what and why things
 are being done, you get exposure to the bigger picture.
@@ -81,6 +84,7 @@ show them the problem and work with them to help solve it. This gets easier the
 more I learn about the company and its people who make it a success.
 
 ## My final thoughts
+
 If you consider joining a corporate and are worried about being a number,
 just remember that you have control. If you want to be a number, you will
 be. If you don't, get out of your comfort zone and start talking.

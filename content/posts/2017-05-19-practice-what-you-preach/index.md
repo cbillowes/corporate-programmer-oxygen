@@ -16,44 +16,44 @@ absolutely exhausting. I struggle - so many times, yet I push through as best
 I can. I try.
 
 Often I find myself in conversation giving insights or advice that could actually
-be benefiting me directly. I have *WOAH!* moments of epiphanies where I realize that I have
+be benefiting me directly. I have _WOAH!_ moments of epiphanies where I realize that I have
 so many of the answers to challenges that I face yet struggle to incorporate them
 into my own life. Why? Maybe it's because:
 
-* I am not yet ready myself
-* Probably because it's not that simple
-* I don't fully understand how I can implement it
-* I am scared or too tired to try
-* I give up or give in too easily to old ways
+-   I am not yet ready myself
+-   Probably because it's not that simple
+-   I don't fully understand how I can implement it
+-   I am scared or too tired to try
+-   I give up or give in too easily to old ways
 
 So if that is the case, is it really fair that I share my insights, opinions,
-beliefs and perspectives if I don't ***fully practice what I preach***?
+beliefs and perspectives if I don't **_fully practice what I preach_**?
 
 ## The saying
 
-Firstly, that saying bothers me. I don't like it: *practice what you preach*.
+Firstly, that saying bothers me. I don't like it: _practice what you preach_.
 I don't feel like I am really preaching. Rather, I share. I share what I believe
-in a particular point in time. So maybe, *practice what you believe*?
+in a particular point in time. So maybe, _practice what you believe_?
 
 My beliefs are also variable. They change, evolve and adapt over time as I learn
 new ways and discover things that are new to me. So maybe,
-*practice your present beliefs*?
+_practice your present beliefs_?
 
 What happens if I know something? It's good advice. I trust it but I am not yet
 ready to apply it to my own life. It's knowledge but not something I yet believe.
-How about *practice the knowledge you trust in today*?
+How about _practice the knowledge you trust in today_?
 
 ## Pursue
 
 Whatever you decide to call it, talking to someone experiencing similar
 challenges positively impacts me and may you:
 
-* I don't feel so alone in the circumstances or situation anymore
-* I can relate and empathize with the person
-* The more I talk about possibilities, the more it reinforces personally over time
-* I get exposed to alternate options, thought patterns, perspectives and possibilities
-* I get inspired, motivated and can learn to apply it
-* I have a sense of worth in helping someone else
+-   I don't feel so alone in the circumstances or situation anymore
+-   I can relate and empathize with the person
+-   The more I talk about possibilities, the more it reinforces personally over time
+-   I get exposed to alternate options, thought patterns, perspectives and possibilities
+-   I get inspired, motivated and can learn to apply it
+-   I have a sense of worth in helping someone else
 
 ## Winging it
 
@@ -74,8 +74,8 @@ Sometimes we speak with such conviction. Someone has a crisis and we climb strai
 our skin tight super-hero outfit with cape, external undies and mask to save
 the catastrophic day by offering our solution-mode super-power capabilities.
 
-The worst thing we can do is to **instill information** on *deaf* ears who just **want
-to be heard or vent**. *WOAH!* a bit on trying to save their world for a moment.
+The worst thing we can do is to **instill information** on _deaf_ ears who just **want
+to be heard or vent**. _WOAH!_ a bit on trying to save their world for a moment.
 Before going into solution-mode it is probably best to ask:
 
 > **Are you seeking advice for your situation or do you just want to be heard?**
@@ -90,7 +90,7 @@ harm anyone in asking that question as far as I can see.
 Has anyone ever given you advice in which you turned down and the reaction was
 that they try to manipulate or intimidate you into taking their advice?
 
-"If you don't do *xyz* then I can't give you *abc* because that is not
+"If you don't do _xyz_ then I can't give you _abc_ because that is not
 acceptable. You are only going to end up in Hell."
 
 There are scenarios where this form of behavior could be acceptable but

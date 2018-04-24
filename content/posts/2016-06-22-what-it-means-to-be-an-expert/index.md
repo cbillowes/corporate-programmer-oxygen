@@ -9,7 +9,7 @@ tags:
 ---
 
 > Accelerate your learning by sharing what you learn with others while you are
-  learning it.
+> learning it.
 
 Experts aren't people who know absolutely everything in their field of expertise.
 Take GPs for example, they provide **educated guesses** based on textbook
@@ -26,7 +26,7 @@ can validate, correct or offer alternative perspectives or solutions to what
 you share.
 
 > The one exclusive sign of thorough knowledge is the power of teaching.
-  ~ Aristotle
+> ~ Aristotle
 
 I gave an Ignite talk about this topic called
 "[Branding your Identity](/blog/branding-your-identity/)" so this idea isn't new

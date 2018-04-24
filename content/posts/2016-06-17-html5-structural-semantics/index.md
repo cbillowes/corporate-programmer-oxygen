@@ -17,10 +17,10 @@ As HTML5 is not intended to be used to markup documents for presentation, it
 rather aims to add meaning to the elements within a document in order to
 enhance:
 
-* accessibility,
-* search indexing,
-* internationalization and
-* interoperability.
+-   accessibility,
+-   search indexing,
+-   internationalization and
+-   interoperability.
 
 Although the `div` is still useful to enhance the layout of a document, the
 newly added structural elements in HTML5 will aid the semantic structuring
@@ -31,6 +31,7 @@ I wanted to document my research by combining the semantics, usage and code
 samples to act as a cheatsheet to personally use.
 
 ## Header
+
 You can use the `header` element to group introductory content or navigational
 aids.
 
@@ -51,15 +52,16 @@ table of contents, site navigation, a search form or any relevant logos and so o
 [MDN Reference](https://developer.mozilla.org/en/docs/Web/HTML/Element/header)
 
 ## Footer
+
 You can use the `footer` element in a document or many sections to
 contain:
 
-* copyright information,
-* contact details,
-* author details,
-* navigational aid like a sitemap,
-* back to the top of the page links, or
-* related references.
+-   copyright information,
+-   contact details,
+-   author details,
+-   navigational aid like a sitemap,
+-   back to the top of the page links, or
+-   related references.
 
 <pre class="line-numbers"><code class="language-markup">
 &lt;footer&gt;
@@ -74,13 +76,14 @@ as sectioning content.
 [MDN Reference](https://developer.mozilla.org/en/docs/Web/HTML/Element/footer)
 
 ## Nav
+
 You can use the `nav` element in your document or many sections to contain:
 
-* site wide navigation bar containing links to other pages or sections within
-  a page,
-* sections that contain additional navigation aids, and
-* footer navigation containing common terms of service, privacy policy and
-  copyright links.
+-   site wide navigation bar containing links to other pages or sections within
+    a page,
+-   sections that contain additional navigation aids, and
+-   footer navigation containing common terms of service, privacy policy and
+    copyright links.
 
 <pre class="line-numbers"><code class="language-markup">
 &lt;header&gt;
@@ -97,12 +100,13 @@ You can use the `nav` element in your document or many sections to contain:
 [MDN Reference](https://developer.mozilla.org/en/docs/Web/HTML/Element/nav)
 
 ## Article
+
 You can use the `article` element for sections of content that can be
 independently distributed or reused such as:
 
-* forum or blog post,
-* article for a magazine, newspaper or online website, or
-* content submitted by a user.
+-   forum or blog post,
+-   article for a magazine, newspaper or online website, or
+-   content submitted by a user.
 
 <pre class="line-numbers"><code class="language-markup">
 &lt;article&gt;
@@ -126,14 +130,15 @@ independently distributed or reused such as:
 [MDN Reference](https://developer.mozilla.org/en/docs/Web/HTML/Element/article)
 
 ## Section
+
 You can use the `section` element for generic sections of content that need to
 be explicitly listed in the document outline. You can then group content based
 on a theme or context such as:
 
-* introductions,
-* news items,
-* contact information, and
-* numbered sections of a thesis.
+-   introductions,
+-   news items,
+-   contact information, and
+-   numbered sections of a thesis.
 
 <pre class="line-numbers"><code class="language-markup">
 &lt;article&gt;
@@ -159,14 +164,15 @@ on a theme or context such as:
 [MDN Reference](https://developer.mozilla.org/en/docs/Web/HTML/Element/section)
 
 ## Aside
+
 You can use the `aside` element for sections of content that is seperate from
 but relates to its surrounding content such as:
 
-* quotes,
-* sidebars,
-* related articles,
-* advertising, or
-* navigational aid.
+-   quotes,
+-   sidebars,
+-   related articles,
+-   advertising, or
+-   navigational aid.
 
 <pre class="line-numbers"><code class="language-markup">
 &lt;article&gt;
@@ -189,6 +195,7 @@ but relates to its surrounding content such as:
 [MDN Reference](https://developer.mozilla.org/en/docs/Web/HTML/Element/aside)
 
 ## Compatibility
+
 Browsers that don't support the new elements will render them as a `span`. If
 you want to enforce compatibility with legacy browsers you can style
 these elements in CSS to be block-level elements.
@@ -211,6 +218,7 @@ for display and printing of your documents.
 </code></pre>
 
 ## My final thoughts
+
 When I tested the document outline of my blog I realized that I have been
 using these elements incorrectly as they provided little to no and often
 incorrect meaning to the structure of my documents. It's amazing what a bit of
@@ -219,11 +227,11 @@ research can teach you.
 You can test the structure of your documents using Document Outline tools.
 Unfortunately I cannot vouch for the correctness of the tools provided below.
 
-* [Online tester](https://gsnedders.html5.org) by gsnedders
-* HTML5 Outliner [Chrome Extension](https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo?hl=en)
-  by Dominykas Blyžė
-* HTML5 Outliner [Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/html5_outliner/)
-  by arky
+-   [Online tester](https://gsnedders.html5.org) by gsnedders
+-   HTML5 Outliner [Chrome Extension](https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo?hl=en)
+    by Dominykas Blyžė
+-   HTML5 Outliner [Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/html5_outliner/)
+    by arky
 
 It can be tricky to know what to use and when.
 [HTML5 Doctor](http://html5doctor.com) has a great
@@ -233,21 +241,21 @@ help you get to grips with some of the new elements in HTML5."
 
 {% include posts/image-caption.html
      url="/img/posts/html5-structural-semantics/html5-doctor-flowchart.jpg"
-     link="http://html5doctor.com/downloads/h5d-sectioning-flowchart.png"
+     link="<http://html5doctor.com/downloads/h5d-sectioning-flowchart.png>"
      description="HTML5 Sectioning Flowchart by
         HTML5 Doctor. There is also a
         <a href='http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf'>PDF Version</a>."
 %}
 
----
+* * *
 
 ## References
 
-* [W3.org Wiki](https://www.w3.org/wiki/HTML_structural_elements)
-* A Book Apart: [HTML5 for web designers](https://abookapart.com/products/html5-for-web-designers)
-  by Jeremy Keith
-* [Let's Talk about Semantics](http://html5doctor.com/lets-talk-about-semantics/)
-  by HTML5 Doctor
-* [HTML5 Semantics](https://www.smashingmagazine.com/2011/11/html5-semantics/)
-  by Bruce Lawson at Smashing Magazine
-* [World of Warcraft](http://wowwiki.wikia.com/) references used in examples
+-   [W3.org Wiki](https://www.w3.org/wiki/HTML_structural_elements)
+-   A Book Apart: [HTML5 for web designers](https://abookapart.com/products/html5-for-web-designers)
+    by Jeremy Keith
+-   [Let's Talk about Semantics](http://html5doctor.com/lets-talk-about-semantics/)
+    by HTML5 Doctor
+-   [HTML5 Semantics](https://www.smashingmagazine.com/2011/11/html5-semantics/)
+    by Bruce Lawson at Smashing Magazine
+-   [World of Warcraft](http://wowwiki.wikia.com/) references used in examples

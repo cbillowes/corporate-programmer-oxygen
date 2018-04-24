@@ -10,8 +10,8 @@ tags:
 ---
 
 > Do you remember how excited you were when you wrote your first program? It's easy to
-  forget when you've been in the real-world for a long time. Sometimes we just need to
-  reignite that passion that we once felt and spread the feeling throughout our teams.
+> forget when you've been in the real-world for a long time. Sometimes we just need to
+> reignite that passion that we once felt and spread the feeling throughout our teams.
 
 Office politics and company drama is exhausting. We get frustrated when it
 feels like mountains need to be moved to make even the smallest change.
@@ -23,15 +23,15 @@ In 2006, Rob Walling shared
 [nine things developers want more than money](http://www.softwarebyrob.com/2006/10/31/nine-things-developers-want-more-than-money/).
 I completely agree with this ten years later:
 
-1. Being set up to succeed
-2. Having excellent management
-3. Learning new things
-4. Exercising creativity and solving the right kind of problems
-5. Having a voice
-6. Being recognized for hard work
-7. Building something that matters
-8. Building software without an act of congress
-9. Having few legacy constraints
+1.  Being set up to succeed
+2.  Having excellent management
+3.  Learning new things
+4.  Exercising creativity and solving the right kind of problems
+5.  Having a voice
+6.  Being recognized for hard work
+7.  Building something that matters
+8.  Building software without an act of congress
+9.  Having few legacy constraints
 
 Don't get me wrong. I don't want to work for free. I just value the quality of a
 working environment and what I am working on more than the salary.
@@ -63,6 +63,7 @@ back to the now and read on.
 Here are three things I've done to help spread that feeling.
 
 ## Think like an entrepreneur
+
 I'm not an entrepreneur. I've been too scared to go down that path but I'd like
 to someday.
 
@@ -80,6 +81,7 @@ business side of things and having the ability to
 make appropriate trade-offs to deliver quality software to the market.
 
 ## Share the passion
+
 If we radiate a positive energy and share the passion we have for making quality
 software and guide - **not force** - others to do the same it can become
 contagious.
@@ -100,6 +102,7 @@ won't achieve much. Empathy to a person's background and circumstances is
 important.
 
 ## Talk to the right people
+
 Many developers are introverts. They won't always get up and speak to the right
 people when something is getting in their way. They will keep trying to
 fix it on their own.
@@ -115,6 +118,7 @@ This builds confidence and exposes us to other people. We get introduced to
 other passionate professionals that we can learn from.
 
 ## My final thoughts
+
 Passion is the basic building block of my career. I never want to lose it - but
 I did.
 

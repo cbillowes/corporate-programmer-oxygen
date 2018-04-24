@@ -41,17 +41,18 @@ On the other hand, without some sense of self-esteem or self-importance,
 how can we trust our own judgements and decisions?
 
 > The issue is not to break free of the ego, escaping it or transcending it.
-  Rather it is to learn how to harness the ego and transform it to use it in a
-  way that serves us and helps us to create a life worth living.
-  ~ K. Ferlic in [Shifting Consciousness](http://ryuc.info/creativespirituality/shifting_consciousness.htm)
+> Rather it is to learn how to harness the ego and transform it to use it in a
+> way that serves us and helps us to create a life worth living.
+> ~ K. Ferlic in [Shifting Consciousness](http://ryuc.info/creativespirituality/shifting_consciousness.htm)
 
 We can do this by finding ways to reduce the influence our ego has on us.
 
 > When the ego becomes imbalanced, all its hideous, negative aspects can act out.
-  Therefore it is my intention to balance the ego, not to destroy it.
-  ~ [Steve Mueller](http://sumo.ly/bMCD)
+> Therefore it is my intention to balance the ego, not to destroy it.
+> ~ [Steve Mueller](http://sumo.ly/bMCD)
 
 ## Don't sweat the small stuff
+
 If your day is filled with accumulated frustrations just keep in mind that you
 have the power to choose what frustrates you and what doesn't. You have
 complete control of your mind and body.
@@ -68,6 +69,7 @@ don't need to build up frustrations that will one day erupt like a volcano.
 Choose what is important to you, action it or find an alternative.
 
 ## Become self aware
+
 Start observing yourself. At the end of your day, reflect on your behavior and
 reactions to certain situations. The better you get at this, the more you
 naturally start observing yourself in the moment.
@@ -80,6 +82,7 @@ Is there something you could have done to avoid the frustration or
 negative feeling you have? Is it actually worth being frustrated about?
 
 ## Have empathy
+
 People come from different walks of life with different personalities,
 backgrounds, and experiences. We are all on different parts of our journey
 and have our own subjective perspectives.
@@ -101,6 +104,7 @@ bad communication and collaboration or absolute defeat.
 Have empathy when working with others and on codebases.
 
 ## Be humble
+
 Try to tame your superiority complex. If you believe that you are the best
 developer in the world, you are most likely mistaken. You are bound to
 write shitty code that is going to make someone swear at you in the future.
@@ -117,6 +121,7 @@ Actually listen to what people have to say and value their opinions even if
 you don't necessarily agree.
 
 ## Unite teams
+
 Don't work in a silo. Share your knowledge, ideas and opinions but do it in a
 way that is kind and gentle. Abrasive behavior results in negativity and fear.
 
@@ -124,6 +129,7 @@ Don't be a [bad apple](https://blog.codinghorror.com/the-bad-apple-group-poison/
 in your team. Negativity radiates through a team and can cause its demise.
 
 ## Be a leader
+
 I don't mean manage your team or those around you. I simply mean, lead by
 example. Share your passion and knowledge that you have with others.
 
@@ -136,6 +142,7 @@ Positive behavior is an uplifting and [powerful](/blog/reignite-the-passion/)
 tool within a team.
 
 ## Persevere
+
 It's not easy. You will make mistakes. Others will make mistakes. You will get
 frustrated. Others will get frustrated. It's a natural order of chaos.
 
@@ -143,5 +150,6 @@ Don't be defeated. Just keep trying and don't be too hard on yourself or those
 around you.
 
 ## My final thoughts
+
 The bottom line is: **don't be a jerk**. Be the change you want to see
 even if it doesn't change anything right away.

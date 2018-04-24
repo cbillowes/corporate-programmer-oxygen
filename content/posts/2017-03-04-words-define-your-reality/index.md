@@ -42,8 +42,8 @@ others.
 ## Absolute language
 
 > ...But the human tongue is a beast that few can master.
-  It strains constantly to break out of its cage, and if it is not tamed,
-  it will run wild and cause you grief. ~ Unknown
+> It strains constantly to break out of its cage, and if it is not tamed,
+> it will run wild and cause you grief. ~ Unknown
 
 As I have been experiencing [Imposter Syndrome](/blog/the-imposter-within/)
 I came to realize that I have a voice inside my head,​ and that voice can be
@@ -56,16 +56,16 @@ from Hitchhiker's Guide to the Galaxy inside my head - ​only less funny.​
 When I first [spoke](/blog/rubyfuza-2017-conference/) about my experiences of
 Imposter Syndrome I used absolute language to describe it.
 
-When we use terms like *always, never, everyone, no one, constantly, none,
-anything, everything, nothing* and
+When we use terms like _always, never, everyone, no one, constantly, none,
+anything, everything, nothing_ and
 so forth, we describe things that have **no exceptions**. That's simply the way
 it is.
 
-* There is no ...
-* Everyone is ...
-* No one is ...
-* They always ...
-* We are constantly ...
+-   There is no ...
+-   Everyone is ...
+-   No one is ...
+-   They always ...
+-   We are constantly ...
 
 We are probably just trying to convey the intensity of the thing that we are
 describing through the usage of absolute language because that is how we are
@@ -80,7 +80,7 @@ absolutes, we are blinded by contradicting truths. Not only do we believe
 what we say but we affect the perception of others too.
 
 > Be careful with your words. Once they are said, they can be only
-  forgiven, not forgotten. ~ Unknown
+> forgiven, not forgotten. ~ Unknown
 
 ## Perspective
 
@@ -103,10 +103,10 @@ to things surrounding that mood or mindset - a sense of
 [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias).
 
 > The tendency to search for, interpret, favor, and recall information in a
-  way that confirms one's preexisting beliefs or hypotheses, while giving
-  disproportionately less consideration to alternative possibilities.
-  ~ [Wikipedia](https://en.wikipedia.org/wiki/Confirmation_bias) on Confirmation
-  Bias
+> way that confirms one's preexisting beliefs or hypotheses, while giving
+> disproportionately less consideration to alternative possibilities.
+> ~ [Wikipedia](https://en.wikipedia.org/wiki/Confirmation_bias) on Confirmation
+> Bias
 
 Ask yourself, "is it really as bleak and negative as I believe it to be?" In the
 same light, "is it really as positive and awesome as it seems?"
@@ -130,7 +130,7 @@ conscious of the vocabulary used to convey the message in your current stete
 of mind.
 
 > Be mindful when it comes to your words. A string of some that don't mean much
-  to you, may stick with someone else for a lifetime. ~ Rachel Wolchin
+> to you, may stick with someone else for a lifetime. ~ Rachel Wolchin
 
 ## Bigger picture
 
@@ -145,7 +145,7 @@ information you gather from this bigger picture over time.
 Let that reflect in the words that you use.
 
 > Handle them carefully, for words have more power than atom bombs.
-  ~ Pearl Strachan Hurd
+> ~ Pearl Strachan Hurd
 
 ## My final thoughts
 
@@ -166,13 +166,13 @@ circumstances and experiences. If you get it wrong, don't be hard on yourself
 and don't ground yourself on the beliefs you speak of. Let them be variable
 while you keep building that bigger picture.
 
----
+* * *
 
 ## Additional material
 
-* [26 Brilliant Quotes on the Super Power of Words](http://www.inc.com/peter-economy/26-brilliant-quotes-on-the-super-power-of-words.html)
-  from Inc.com
-* [3 Reasons Why We Should Be Careful When Using Absolutes](http://www.mtnuniversal.com/blogs/3-reasons-why-we-should-be-careful-when-using-absolutes)
-  from MTN Universal
+-   [26 Brilliant Quotes on the Super Power of Words](http://www.inc.com/peter-economy/26-brilliant-quotes-on-the-super-power-of-words.html)
+    from Inc.com
+-   [3 Reasons Why We Should Be Careful When Using Absolutes](http://www.mtnuniversal.com/blogs/3-reasons-why-we-should-be-careful-when-using-absolutes)
+    from MTN Universal
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -8,7 +8,7 @@ tags:
 ---
 
 > Communication is essential to minimize stress and get the support a team
-  needs to be successful.
+> needs to be successful.
 
 We are seven days into our two week sprint and our burndown is flat-lining.
 Until today, this sprint felt like a terrible storm that would never clear up.
@@ -20,6 +20,7 @@ of bricks.
 This didn't happen here. Our stress was superficial and here's why:
 
 ## Motivation
+
 We had two stories which heavily relied on core components seeking immediate
 technical attention that wasn't planned for. We found tight coupling,
 duplication, unused and misplaced components across different assemblies.
@@ -46,6 +47,7 @@ business/product terms to our Product Owner, we would have jeopardized our
 sprint and destroyed trust.
 
 ## Manage expectations
+
 As the days went on we [Developers] were starting to stress a bit. This simple
 refactor grew into a mountain of work that required a lot of focus.
 
@@ -69,6 +71,7 @@ zero point stories in the sprint and increased our story points for the stories
 we underestimated.
 
 ## Confidence
+
 After many technical struggles, today we were victorious. Our blood sweat and
 tears entered our staging environment in a working condition and our stories
 started moving making our sprint look more balanced.
@@ -83,6 +86,7 @@ the stories we are currently working on. In next iterations we can slowly migrat
 other components when we touch on that code.
 
 ## My final thoughts
+
 Our stress was superficial because we took it upon ourselves to improve the
 quality of our codebase.
 
@@ -93,15 +97,15 @@ victorious.
 
 Here's a summary of the factors contributing to our victory:
 
-* We took ownership and accountability of the product and codebase
-* We worked cohesively together driven by passion towards to the success of the product
-* We admitted to mistakes that we made and learned from them
-* We regularly communicated our progress, risks and issues we faced
-* We worked and thought strategically keeping the team, business, product and
-  user's best interests at heart
-* We got support because we asked for help
-* We created visibility of the success that came from addressing our technical
-  debt
+-   We took ownership and accountability of the product and codebase
+-   We worked cohesively together driven by passion towards to the success of the product
+-   We admitted to mistakes that we made and learned from them
+-   We regularly communicated our progress, risks and issues we faced
+-   We worked and thought strategically keeping the team, business, product and
+    user's best interests at heart
+-   We got support because we asked for help
+-   We created visibility of the success that came from addressing our technical
+    debt
 
 The bottom line is that when people are not in the know, teams can pull in
 all sorts of directions. **Communication is essential to minimize stress and

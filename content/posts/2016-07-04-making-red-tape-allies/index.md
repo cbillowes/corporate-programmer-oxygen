@@ -7,7 +7,7 @@ tags:
 ---
 
 > Having allies that are exposed to just as much red-tape as you can give you
-  the confidence and guidance you need.
+> the confidence and guidance you need.
 
 Sometimes you have to tackle many obstacles to get something done at a
 corporate. Many refer to such obstacles as red-tape.
@@ -32,6 +32,7 @@ Obviously it takes time to meet people, learn about the company, your product
 and how to overcome red-tape but you never have to feel stuck and alone.
 
 ## Network
+
 Grow your network of people that can aid you with solving red-tape.
 
 Start networking with software developers from other teams. Drop in for a quick
@@ -58,6 +59,7 @@ ask you a bunch of thought-provoking questions so that they can try understand
 the problem which could lead you on the right path.
 
 ## Share ideas
+
 Start chatting to other people about things that frustrate you or impede your
 work.
 
@@ -87,6 +89,7 @@ Mistakes are also a great way to learn how not to do things. Gladly share them
 and learn through the mistakes of others.
 
 ## Document
+
 Share your learnings with your team and try to document it on a central
 knowledge base whether it be an online Wiki, blog or Q&A platform. This can
 help others who face the same problems as you in the future.
@@ -95,6 +98,7 @@ When others approach you with issues you have solved, gladly share your insights
 with them.
 
 ## My final thoughts
+
 Building relationships with people outside your team gives you insights to how
 other people and teams are tackling different problems that your team may be 
 experiencing. Sometimes we get too close to a problem that we can't always

@@ -8,7 +8,7 @@ tags:
 ---
 
 > "We only grow when we are doing things that makes us uncomfortable." by
-  John Sonmez
+> John Sonmez
 
 I have been following [John Sonmez](http://www.simpleprogrammer.com)
 for a while now. He has personally guided and motivated me during the
@@ -30,7 +30,7 @@ love his talk because I can
 so much to it.
 
 > We only grow when we are doing things that makes us uncomfortable. ~
-  John Sonmez
+> John Sonmez
 
 <iframe class="youtube"
   src="https://www.youtube.com/embed/cVC3DQvAAIA"

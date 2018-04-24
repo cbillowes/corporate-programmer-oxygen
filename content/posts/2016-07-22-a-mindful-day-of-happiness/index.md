@@ -8,7 +8,7 @@ tags:
 ---
 
 > Everything I did today was done with intent and slower than usual. I was
-  mindful.
+> mindful.
 
 Today I had complete control of my day and my emotions because I was mindful.
 
@@ -16,9 +16,9 @@ I walked mindfully. I spoke mindfully. I thought mindfully. I listened mindfully
 I stood mindfully. I ate mindfully. This is something I have never done before.
 
 > Mindfulness is always mindful of something. When you drink your tea mindfully,
-  it’s called mindfulness of drinking. When you walk mindfully, it’s called
-  mindfulness of walking. And when you breathe mindfully, that is mindfulness
-  of breathing. ~ [Thich Nhat Hanh](http://www.mindful.org/author/thich-nhat-hanh/)
+> it’s called mindfulness of drinking. When you walk mindfully, it’s called
+> mindfulness of walking. And when you breathe mindfully, that is mindfulness
+> of breathing. ~ [Thich Nhat Hanh](http://www.mindful.org/author/thich-nhat-hanh/)
 
 Yesterday, I was introduced to
 **[five steps to minfulness](http://www.mindful.org/five-steps-to-mindfulness/)**,
@@ -34,7 +34,7 @@ I actually felt present in my day. I saw, listened and experienced my day like
 no other day before. I experienced a great day full of happy moments.
 
 | What I achieved                | Because of               |
-|--------------------------------|--------------------------|
+| ------------------------------ | ------------------------ |
 | I worked sustainably           | I was focused            |
 | I was stimulated               | I didn't multitask       |
 | I heard what people had to say | I actually listened      |
@@ -50,7 +50,7 @@ This clutter creates anxiety and I can rarely attend to it because I hardly
 have enough time. When I do, I am too exhausted to care. This is physical
 evidence of the clutter going on in my mind.
 
-I struggle to finish tasks easily because *seemingly more important* ones
+I struggle to finish tasks easily because _seemingly more important_ ones
 creep up and I'd run around - mentally and physically - multitasking which
 results in feeling scatterbrained.
 
@@ -62,21 +62,21 @@ When I got to work and sat at my table, in a few minutes my table was
 effortlessly clean and I had attended to more than I have ever been able to do
 in the past. **Everything I did was done with intent and slower than usual.**
 
-* I learned that it takes time to make time. Rushing to get everything done only
-  creates a mental clutter in my mind that impedes clarity and insight.
+-   I learned that it takes time to make time. Rushing to get everything done only
+    creates a mental clutter in my mind that impedes clarity and insight.
 
-* Doing things with intent in a focused manner naturally breaks me out of the
-  survival-mode I am so accustomed to and frees me from multitasking.
+-   Doing things with intent in a focused manner naturally breaks me out of the
+    survival-mode I am so accustomed to and frees me from multitasking.
 
-* If I can't get to everything in a day, then so be it. Practicing being mindful
-  has aided me in approaching my day in a more sustainable way while living in
-  the here and now.
+-   If I can't get to everything in a day, then so be it. Practicing being mindful
+    has aided me in approaching my day in a more sustainable way while living in
+    the here and now.
 
-* I felt like a got more out of my day (and time) because I was actually living
-  in the moment instead of in the past or future.
+-   I felt like a got more out of my day (and time) because I was actually living
+    in the moment instead of in the past or future.
 
 This practice is very rewarding, sustainable, keeps me calm and makes me happy.
 
 > You are caught in the past or in the future. You are not there in the present
-  moment, living your life deeply. That is forgetfulness. The opposite of
-  forgetfulness is mindfulness. ~ [Thich Nhat Hanh](http://www.mindful.org/author/thich-nhat-hanh/)
+> moment, living your life deeply. That is forgetfulness. The opposite of
+> forgetfulness is mindfulness. ~ [Thich Nhat Hanh](http://www.mindful.org/author/thich-nhat-hanh/)

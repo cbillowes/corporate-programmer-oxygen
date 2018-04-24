@@ -9,8 +9,8 @@ tags:
 ---
 
 > Are you chasing after unicorns - perfect things that may not exist? Perfection
-  is a subjective perspective. I dive into this "illusion" and how it has
-  affected me.
+> is a subjective perspective. I dive into this "illusion" and how it has
+> affected me.
 
 Media often creates a perception of everything being
 ["perfect"](http://elitedaily.com/life/perfect-just-illusion/1063793/). Billboards,
@@ -27,6 +27,7 @@ I am not sucker punching the media whether it be linear, digital or physical; I
 just want to use it to illustrate the illusion of perfection that is created.
 
 ## Searching for a unicorn
+
 I was disappointed when I started working at a corporate. It sounded amazing in
 theory but it didn't meet my expectations.
 
@@ -43,6 +44,7 @@ perspective changed. This makes for a more welcoming work environment and a
 happier state of mind.
 
 ## Everyone is better than me
+
 I started browsing the web before it exploded into a global obsession.
 The intimate web I used to know was filled with Times New Roman, Comic Sans
 and pages with solar flares among other horrors. It wasn't filled with perfection.
@@ -56,6 +58,7 @@ When I joined a corporate, this nightmare hit harder as it was no longer
 just in the online world. Perhaps everyone is just better than me?
 
 ### Well, maybe - but also maybe not
+
 I started observing the people I admire. When I started listening carefully
 I picked up that these people - no matter how famous or experienced - all have fears like I do.
 Many feel like [imposters](http://www.hanselman.com/blog/ImAPhonyAreYou.aspx) or
@@ -64,18 +67,19 @@ that they are [not good enough](http://devpressed.com/t/im-supposedly-a-senior-s
 Some people just stick their necks out and [give stuff a try](http://irisclasson.com/2016/03/01/what-if-i-suck-confessions-of-a-wtf-contributor-by-iris-classon/).
 That's what I started doing.
 
-* I took a [blogging course](http://devcareerboost.com/blog-course/) from
-John Sonmez at [simpleprogrammer.com](http://simpleprogrammer.com) and got amazing feedback directly from him.
-* I submitted an article to [A List Apart](http://www.alistapart.com) and it got
-accepted.
-* I was asked if I want to give an [Ignite talk](https://en.wikipedia.org/wiki/Ignite_(event))
-at an event just because I got involved in our local software development
-community.
+-   I took a [blogging course](http://devcareerboost.com/blog-course/) from
+    John Sonmez at [simpleprogrammer.com](http://simpleprogrammer.com) and got amazing feedback directly from him.
+-   I submitted an article to [A List Apart](http://www.alistapart.com) and it got
+    accepted.
+-   I was asked if I want to give an [Ignite talk](https://en.wikipedia.org/wiki/Ignite_(event))
+    at an event just because I got involved in our local software development
+    community.
 
 These are big wins for me which my former self would never have achieved because
 my fear crippled me. Hell, I am still scared but I just do it anyway.
 
 ## The perfect code
+
 When you start programming, the coolest thing is to see your instructions
 materialize on a device of some sort. It doesn't matter how spaghetti it is. If
 you can interact with it and it does what you want it to do, you have a
@@ -89,6 +93,7 @@ the best code you can in the moment but it shouldn't cripple you. Writing code
 is fun and when we get blinded by perfection, we lose some of that fun.
 
 ### Programming in the real world
+
 When you work for a company, you are paid to produce code. The business doesn't
 often care about how it gets done as long as it does get done. When you write
 code that becomes hard to maintain, it takes longer for you and the team to make
@@ -103,6 +108,7 @@ Take what you can from others but allow yourself to make mistakes. When you do,
 you **need** to learn from them.
 
 ## Redefining happiness
+
 Steve Handel wrote that the problem with perfectionism is that it [destroys happiness](http://www.theemotionmachine.com/how-perfectionism-destroys-happiness).
 He mentions that it can "negatively influence your work"
 as it can lead to procrastination and "workaholism". These are two spectrums but
@@ -118,6 +124,7 @@ what I want to work towards. Steve has some nice tips and exercises in his
 article for you follow.
 
 ## My final thoughts
+
 Perfection is sometimes a crippling illusion whether it be what you see, where
 you are, your experiences or what people tell you. Stop chasing unicorns,
 believing that you are worthless, and stressing yourself out because your code

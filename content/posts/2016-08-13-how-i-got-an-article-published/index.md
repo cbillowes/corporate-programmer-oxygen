@@ -9,7 +9,7 @@ tags:
 ---
 
 > I am proud to announce that my article got published on A List Apart giving
-  me the chance to share my career experiences with the community.
+> me the chance to share my career experiences with the community.
 
 My article —
 "[Finding Opportunities in the Mistakes We Make](http://alistapart.com/article/finding-opportunities-in-the-mistakes-we-make)"
@@ -18,42 +18,43 @@ took to accomplish this, a little background story, some additional tips for
 writing for developers and the social media activity I got from the article.
 
 ## Steps
-1. **Why?**
-   If you have an idea for a topic that could inspire or inspire others, then
-   you probably have your why. You could however be putting this on your own
-   blog. What is your why?
 
-1. **Who do you want to write for?**
-   Find a website you really want to contribute to. This could be one of many
-   websites you admire and constantly read or follow. Make sure your topic is
-   closely knitted with the theme of their content.
+1.  **Why?**
+    If you have an idea for a topic that could inspire or inspire others, then
+    you probably have your why. You could however be putting this on your own
+    blog. What is your why?
 
-2. **Find out how to contribute.**
-   You can read more about contributing by clicking on a
-   "write for us" or "submit your <topic>" link usually at the top of the page.
-   Not all websites are open for community contributions.
+2.  **Who do you want to write for?**
+    Find a website you really want to contribute to. This could be one of many
+    websites you admire and constantly read or follow. Make sure your topic is
+    closely knitted with the theme of their content.
 
-3. **Submit your topic.**
-   The contribution section will have more information about how you can
-   submit your topic. It's usually supported by one or two backing paragraphs
-   telling them how your article could help or inspire others or elaborate
-   more on your topic. The contribution section should give you more insights
-   into what they expect from your submission.
+3.  **Find out how to contribute.**
+    You can read more about contributing by clicking on a
+    "write for us" or "submit your <topic>" link usually at the top of the page.
+    Not all websites are open for community contributions.
 
-4. **Wait.**
-   You may need to wait for feedback. Possibly 2 to 4 weeks depending on their
-   process and guidelines.
+4.  **Submit your topic.**
+    The contribution section will have more information about how you can
+    submit your topic. It's usually supported by one or two backing paragraphs
+    telling them how your article could help or inspire others or elaborate
+    more on your topic. The contribution section should give you more insights
+    into what they expect from your submission.
 
-5. **Your response, if any.**
-   If you get the thumbs up, be prepared to work hard as quality is important on
-   high-volume traffic sites. You may work closely with a writing editor on a
-   collaborative tool like Google Docs depending on their process. They will
-   give you all the information you need. I can't vouch for all websites but
-   I'm sure a response will come.
+5.  **Wait.**
+    You may need to wait for feedback. Possibly 2 to 4 weeks depending on their
+    process and guidelines.
 
-6. **Comments after publication.**
-   Be prepared to provide feedback to comments that come in once your article
-   has been published.
+6.  **Your response, if any.**
+    If you get the thumbs up, be prepared to work hard as quality is important on
+    high-volume traffic sites. You may work closely with a writing editor on a
+    collaborative tool like Google Docs depending on their process. They will
+    give you all the information you need. I can't vouch for all websites but
+    I'm sure a response will come.
+
+7.  **Comments after publication.**
+    Be prepared to provide feedback to comments that come in once your article
+    has been published.
 
 If you don't get the thumbs up, you could ask why it was declined, if they
 didn't specify. You could try submit your topic to another website
@@ -65,6 +66,7 @@ understanding the theme of their content. This could lead to your topic being
 rejected.
 
 ## Background story
+
 I haven't been good with sharing my knowledge and experiences with the community
 throughout my career. I always assumed my knowledge was mediocre or commonly
 known.
@@ -108,8 +110,8 @@ expect this at all. And I had a great looking blog to link to from my author
 bio page.
 
 The feedback I got was positive and inspiring. I never knew so many people would
-like it or be able to relate to it that much. *Self doubt tends to do this to
-a person.*
+like it or be able to relate to it that much. _Self doubt tends to do this to
+a person._
 
 **It goes to show that we can easily overlook the importance of the information
 we gather during our days on earth. Something you may consider small could
@@ -122,6 +124,7 @@ How amazing.
 Is this something you would like to do? What is stopping you?
 
 ## Writing for developers
+
 Although my article (and blog) isn't very technical, my audience is.
 
 If you want to learn more about sharing your ideas with the software development
@@ -134,4 +137,5 @@ complete with the video,
 compiled by [Chiu-Ki Chan](https://twitter.com/chiuki).
 
 ## Social media activity
+
 <div class="storify"><iframe src="//storify.com/cbillowes/finding-opportunities-in-the-mistakes-we-make/embed?header=false&border=false" width="100%" height="750" frameborder="no" allowtransparency="true"></iframe><script src="//storify.com/cbillowes/finding-opportunities-in-the-mistakes-we-make.js?header=false&border=false"></script><noscript>[<a href="//storify.com/cbillowes/finding-opportunities-in-the-mistakes-we-make" target="_blank">View the story "Finding Opportunities in the Mistakes We Make" on Storify</a>]</noscript></div>

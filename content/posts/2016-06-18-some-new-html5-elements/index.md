@@ -18,6 +18,7 @@ samples to act as a cheatsheet to personally use. I also won't be covering rich
 media elements here.
 
 ## Main
+
 You can use the `main` element to indicate the main content that is unique to
 the document or expands upon the central topic or functionality of it.
 You can only use it once.
@@ -50,6 +51,7 @@ or `footer` elements.
 [MDN Reference](https://developer.mozilla.org/en/docs/Web/HTML/Element/main)
 
 ## Details
+
 You can use the `details` element in conjunction with the `summary` element to
 provide additional information to a user.
 
@@ -79,6 +81,7 @@ provide additional information to a user.
 [MDN Reference](https://developer.mozilla.org/en/docs/Web/HTML/Element/details)
 
 ## Mark
+
 You can use the `mark` element to highlight text that is relevant to a
 particular context like highlighting keywords from a search result.
 
@@ -100,13 +103,14 @@ particular context like highlighting keywords from a search result.
 [MDN Reference](https://developer.mozilla.org/en/docs/Web/HTML/Element/mark)
 
 ## Time
+
 You can use the `time` element for dates and/or times in the
 [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar) to
 present it so that people can read it and encode it so that user agents
 can provide additional functionality such as:
 
-* adding reminders for birthdays and scheduled events to a user's calendar, or
-* producing smarter search results from search engines.
+-   adding reminders for birthdays and scheduled events to a user's calendar, or
+-   producing smarter search results from search engines.
 
 <pre class="line-numbers"><code class="language-markup">
 &lt;p&gt;
@@ -120,6 +124,7 @@ can provide additional functionality such as:
 [MDN Reference](https://developer.mozilla.org/en/docs/Web/HTML/Element/time)
 
 ## Figure
+
 You can use the `figure` element to display self contained content such as
 diagrams, charts, photos, images, illustrations, artwork, code listings and
 schemas.
@@ -140,6 +145,7 @@ If you remove it, the flow shouldn't be affected.
 [MDN Reference](https://developer.mozilla.org/en/docs/Web/HTML/Element/figure)
 
 ## Figcaption
+
 You can use the `figcaption` element to caption or create a legend for a figure.
 
 It's optional to use and can be placed as the first or last element
@@ -158,12 +164,12 @@ within the `figure` element.
 
 [MDN Reference](https://developer.mozilla.org/en/docs/Web/HTML/Element/figcaption)
 
----
+* * *
 
 ## References
 
-* [W3.org Wiki](https://www.w3.org/wiki/HTML_structural_elements)
-* A Book Apart: [HTML5 for web designers](https://abookapart.com/products/html5-for-web-designers)
-  by Jeremy Keith
-* Some [World of Warcraft](http://wowwiki.wikia.com/) references were used in
-  examples
+-   [W3.org Wiki](https://www.w3.org/wiki/HTML_structural_elements)
+-   A Book Apart: [HTML5 for web designers](https://abookapart.com/products/html5-for-web-designers)
+    by Jeremy Keith
+-   Some [World of Warcraft](http://wowwiki.wikia.com/) references were used in
+    examples

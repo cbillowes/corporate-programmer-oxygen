@@ -38,12 +38,12 @@ I struggle to keep a journal but do see the value in doing so as it documents
 your personality whereby you could draw interesting conclusions to what triggers
 your behavior over time especially when you have difficulty remembering things.
 
-* [How to Journal for Therapy](http://www.wikihow.com/Journal-for-Therapy) from
-  wikiHow
-* [10 Journaling Tips to Help You Heal, Grow and Thrive](http://tinybuddha.com/blog/10-journaling-tips-to-help-you-heal-grow-and-thrive/)
-  from the Tiny Buddha
-* [The Power in Writing About Yourself](https://www.theatlantic.com/health/archive/2014/12/ew-feelings/383475/)
-  from The Atlantic
+-   [How to Journal for Therapy](http://www.wikihow.com/Journal-for-Therapy) from
+    wikiHow
+-   [10 Journaling Tips to Help You Heal, Grow and Thrive](http://tinybuddha.com/blog/10-journaling-tips-to-help-you-heal-grow-and-thrive/)
+    from the Tiny Buddha
+-   [The Power in Writing About Yourself](https://www.theatlantic.com/health/archive/2014/12/ew-feelings/383475/)
+    from The Atlantic
 
 ## Personality tests
 
@@ -51,8 +51,8 @@ I generally don't buy into personality tests and quizzes but I was recently
 exposed to two tests that yielded eerie results - capturing my core
 personality traits in words that I strongly relate to.
 
-* [Enneagram](https://www.integrative.co.za/enneagram/)
-* [16Personalities](https://www.16personalities.com/)
+-   [Enneagram](https://www.integrative.co.za/enneagram/)
+-   [16Personalities](https://www.16personalities.com/)
 
 Having taken the tests I have been exposed to a better understanding of
 myself - a stepping stone to self awareness - which would have taken much
@@ -60,16 +60,16 @@ longer to achieve through introspection and journaling.
 
 The combination of reports provide information relating to:
 
-* What makes you tick
-* Your strengths and weaknesses
-* Why and how you behave in different relationships and situations
-* Your behavior in teams, leadership and management
-* Your career paths and workplace habits
-* Your growth paths
-* Your blind spots
-* How you deal with conflict
-* How you make decisions
-* How to attain Mastery in your profession
+-   What makes you tick
+-   Your strengths and weaknesses
+-   Why and how you behave in different relationships and situations
+-   Your behavior in teams, leadership and management
+-   Your career paths and workplace habits
+-   Your growth paths
+-   Your blind spots
+-   How you deal with conflict
+-   How you make decisions
+-   How to attain Mastery in your profession
 
 ## Enneagram
 
@@ -87,11 +87,11 @@ They go on to say that it does not box in people, but rather opens a pathway
 to self-discovery and greater personal awareness.
 
 > The Integrative Enneagram Questionnaire draws on the collective body of
-  knowledge and experience from many pioneers in the Enneagram field and as the
-  developers of the iEQ9 we would like to acknowledge the experts,
-  philosophers and practitioners for their contribution to the development
-  and application of the model as we understand it today. ~ Dirk Cloete,
-  Founder Integrative9 Enneagram Solutions
+> knowledge and experience from many pioneers in the Enneagram field and as the
+> developers of the iEQ9 we would like to acknowledge the experts,
+> philosophers and practitioners for their contribution to the development
+> and application of the model as we understand it today. ~ Dirk Cloete,
+> Founder Integrative9 Enneagram Solutions
 
 There are places where you can take the test for free however the Integrative
 test is paid for. They offer
@@ -100,37 +100,37 @@ depending on how much information you want to gain from the test.
 
 The nine Enneagram types include:
 
-1. **[Strict Perfectionist](https://www.integrative.co.za/enneagram/introduction/type-1/)**:
-   The Rational, Idealistic Type: Principled, Purposeful, Self-Controlled, and Perfectionistic
+1.  **[Strict Perfectionist](https://www.integrative.co.za/enneagram/introduction/type-1/)**:
+    The Rational, Idealistic Type: Principled, Purposeful, Self-Controlled, and Perfectionistic
 
-2. **[Considerate Helper](https://www.integrative.co.za/enneagram/introduction/type-2/)**:
-   The Caring, Interpersonal Type: Demonstrative, Generous, People-Pleasing, and Possessive
+2.  **[Considerate Helper](https://www.integrative.co.za/enneagram/introduction/type-2/)**:
+    The Caring, Interpersonal Type: Demonstrative, Generous, People-Pleasing, and Possessive
 
-3. **[Competitive Achiever](https://www.integrative.co.za/enneagram/introduction/type-3/)**:
-   The Success-Oriented, Pragmatic Type: Adaptive, Excelling, Driven, and Image-Conscious
+3.  **[Competitive Achiever](https://www.integrative.co.za/enneagram/introduction/type-3/)**:
+    The Success-Oriented, Pragmatic Type: Adaptive, Excelling, Driven, and Image-Conscious
 
-4. **[Intense Creative](https://www.integrative.co.za/enneagram/introduction/type-4/)**:
-   The Sensitive, Withdrawn Type: Expressive, Dramatic, Self-Absorbed, and Temperamental
+4.  **[Intense Creative](https://www.integrative.co.za/enneagram/introduction/type-4/)**:
+    The Sensitive, Withdrawn Type: Expressive, Dramatic, Self-Absorbed, and Temperamental
 
-5. **[Quiet Specialist](https://www.integrative.co.za/enneagram/introduction/type-5/)**:
-   The Intense, Cerebral Type: Perceptive, Innovative, Secretive, and Isolated
+5.  **[Quiet Specialist](https://www.integrative.co.za/enneagram/introduction/type-5/)**:
+    The Intense, Cerebral Type: Perceptive, Innovative, Secretive, and Isolated
 
-6. **[Loyal Sceptic](https://www.integrative.co.za/enneagram/introduction/type-6/)**:
-   The Committed, Security-Oriented Type: Engaging, Responsible, Anxious, and Suspicious
+6.  **[Loyal Sceptic](https://www.integrative.co.za/enneagram/introduction/type-6/)**:
+    The Committed, Security-Oriented Type: Engaging, Responsible, Anxious, and Suspicious
 
-7. **[Enthusiastic Visionary](https://www.integrative.co.za/enneagram/introduction/type-7/)**:
-   The Busy, Fun-Loving Type: Spontaneous, Versatile, Distractible, and Scattered
+7.  **[Enthusiastic Visionary](https://www.integrative.co.za/enneagram/introduction/type-7/)**:
+    The Busy, Fun-Loving Type: Spontaneous, Versatile, Distractible, and Scattered
 
-8. **[Active Controller](https://www.integrative.co.za/enneagram/introduction/type-8/)**:
-   The Powerful, Dominating Type: Self-Confident, Decisive, Willful, and Confrontational
+8.  **[Active Controller](https://www.integrative.co.za/enneagram/introduction/type-8/)**:
+    The Powerful, Dominating Type: Self-Confident, Decisive, Willful, and Confrontational
 
-9. **[Adaptive Peacemaker](https://www.integrative.co.za/enneagram/introduction/type-9/)**:
-   The Easygoing, Self-Effacing Type: Receptive, Reassuring, Agreeable, and Complacent
+9.  **[Adaptive Peacemaker](https://www.integrative.co.za/enneagram/introduction/type-9/)**:
+    The Easygoing, Self-Effacing Type: Receptive, Reassuring, Agreeable, and Complacent
 
-*They are labelled differently depending on the institute
+_They are labelled differently depending on the institute
 but revolve around the same principles. The above are labelled by Integrative
 while the descriptions come from
-[enneagraminstitute.com](https://www.enneagraminstitute.com/type-descriptions).*
+[enneagraminstitute.com](https://www.enneagraminstitute.com/type-descriptions)._
 
 ## 16Personalities
 
@@ -145,79 +145,79 @@ As the name suggests there are [16 personality types](https://www.16personalitie
 each with its own [acronym](https://www.16personalities.com/articles/our-theory)
 broken down into 4 categories:
 
-*Note for the acronyms:*
+_Note for the acronyms:_
 
-*These are the five personality aspects. They define the personality type when
-they are combined.*
+_These are the five personality aspects. They define the personality type when
+they are combined._
 
-* ***Mind*** - *Introversion (I) or Extraversion (E)*
-* ***Energy*** - *Intuition (N) or Sensing (S)*
-* ***Nature*** - *Thinking (T) or Feeling (F)*
-* ***Tactics*** - *Judging (J) or Perceiving (P)*
-* ***Identity*** - *Assertive (-A) or Turbulent (-T)*
+-   **_Mind_** - _Introversion (I) or Extraversion (E)_
+-   **_Energy_** - _Intuition (N) or Sensing (S)_
+-   **_Nature_** - _Thinking (T) or Feeling (F)_
+-   **_Tactics_** - _Judging (J) or Perceiving (P)_
+-   **_Identity_** - _Assertive (-A) or Turbulent (-T)_
 
-*The Identity aspect underpins all personalities, showing how confident we are
+_The Identity aspect underpins all personalities, showing how confident we are
 in our abilities and decisions. They elaborate on this in
-[their theory](https://www.16personalities.com/articles/our-theory).*
+[their theory](https://www.16personalities.com/articles/our-theory)._
 
 ### Analysts
 
-* **[Architect](https://www.16personalities.com/intj-personality)**: (INTJ Personality)
-  Imaginative and strategic thinkers, with a plan for everything.
+-   **[Architect](https://www.16personalities.com/intj-personality)**: (INTJ Personality)
+    Imaginative and strategic thinkers, with a plan for everything.
 
-* **[Logician](https://www.16personalities.com/intp-personality)**: (INTP Personality)
-  Innovative inventors with an unquenchable thirst for knowledge.
+-   **[Logician](https://www.16personalities.com/intp-personality)**: (INTP Personality)
+    Innovative inventors with an unquenchable thirst for knowledge.
 
-* **[Commander](https://www.16personalities.com/entj-personality)**: (ENTJ Personality)
-  Bold, imaginative and strong-willed leaders, always finding a way – or making one.
+-   **[Commander](https://www.16personalities.com/entj-personality)**: (ENTJ Personality)
+    Bold, imaginative and strong-willed leaders, always finding a way – or making one.
 
-* **[Debater](https://www.16personalities.com/entp-personality)**: (ENTP Personality)
-  Smart and curious thinkers who cannot resist an intellectual challenge.
+-   **[Debater](https://www.16personalities.com/entp-personality)**: (ENTP Personality)
+    Smart and curious thinkers who cannot resist an intellectual challenge.
 
 ### Diplomats
 
-* **[Advocate](https://www.16personalities.com/infj-personality)**: (INFJ Personality)
-  Quiet and mystical, yet very inspiring and tireless idealists.
+-   **[Advocate](https://www.16personalities.com/infj-personality)**: (INFJ Personality)
+    Quiet and mystical, yet very inspiring and tireless idealists.
 
-* **[Mediator](https://www.16personalities.com/infp-personality)**: (INFP Personality)
-  Poetic, kind and altruistic people, always eager to help a good cause.
+-   **[Mediator](https://www.16personalities.com/infp-personality)**: (INFP Personality)
+    Poetic, kind and altruistic people, always eager to help a good cause.
 
-* **[Protagonist](https://www.16personalities.com/enfj-personality)**: (ENFJ Personality)
-  Charismatic and inspiring leaders, able to mesmerize their listeners.
+-   **[Protagonist](https://www.16personalities.com/enfj-personality)**: (ENFJ Personality)
+    Charismatic and inspiring leaders, able to mesmerize their listeners.
 
-* **[Campaigner](https://www.16personalities.com/enfp-personality)**: (ENFP Personality)
-  Enthusiastic, creative and sociable free spirits, who can always find a reason to smile.
+-   **[Campaigner](https://www.16personalities.com/enfp-personality)**: (ENFP Personality)
+    Enthusiastic, creative and sociable free spirits, who can always find a reason to smile.
 
 ### Sentinels
 
-* **[Logistician](https://www.16personalities.com/istj-personality)**: (ISTJ Personality)
-  Practical and fact-minded individuals, whose reliability cannot be doubted.
+-   **[Logistician](https://www.16personalities.com/istj-personality)**: (ISTJ Personality)
+    Practical and fact-minded individuals, whose reliability cannot be doubted.
 
-* **[Defender](https://www.16personalities.com/isfj-personality)**: (ISFJ Personality)
-  Very dedicated and warm protectors, always ready to defend their loved ones.
+-   **[Defender](https://www.16personalities.com/isfj-personality)**: (ISFJ Personality)
+    Very dedicated and warm protectors, always ready to defend their loved ones.
 
-* **[Executive](https://www.16personalities.com/estj-personality)**: (ESTJ Personality)
-  Excellent administrators, unsurpassed at managing things – or people.
+-   **[Executive](https://www.16personalities.com/estj-personality)**: (ESTJ Personality)
+    Excellent administrators, unsurpassed at managing things – or people.
 
-* **[Consul](https://www.16personalities.com/esfj-personality)**: (ESFJ Personality)
-  Extraordinarily caring, social and popular people, always eager to help.
+-   **[Consul](https://www.16personalities.com/esfj-personality)**: (ESFJ Personality)
+    Extraordinarily caring, social and popular people, always eager to help.
 
 ### Explorers
 
-* **[Virtuoso](https://www.16personalities.com/istp-personality)**: (ISTP Personality)
-  Bold and practical experimenters, masters of all kinds of tools.
+-   **[Virtuoso](https://www.16personalities.com/istp-personality)**: (ISTP Personality)
+    Bold and practical experimenters, masters of all kinds of tools.
 
-* **[Adventurer](https://www.16personalities.com/isfp-personality)**: (ISFP Personality)
-  Flexible and charming artists, always ready to explore and experience something new.
+-   **[Adventurer](https://www.16personalities.com/isfp-personality)**: (ISFP Personality)
+    Flexible and charming artists, always ready to explore and experience something new.
 
-* **[Entrepreneur](https://www.16personalities.com/estp-personality)**: (ESTP Personality)
-  Smart, energetic and very perceptive people, who truly enjoy living on the edge.
+-   **[Entrepreneur](https://www.16personalities.com/estp-personality)**: (ESTP Personality)
+    Smart, energetic and very perceptive people, who truly enjoy living on the edge.
 
-* **[Entertainer](https://www.16personalities.com/esfp-personality)**: (ESFP Personality)
-  Spontaneous, energetic and enthusiastic people – life is never boring around them.
+-   **[Entertainer](https://www.16personalities.com/esfp-personality)**: (ESFP Personality)
+    Spontaneous, energetic and enthusiastic people – life is never boring around them.
 
-*Labels and descriptions taken from
-[16personalities.com](https://www.16personalities.com).*
+_Labels and descriptions taken from
+[16personalities.com](https://www.16personalities.com)._
 
 ## My final thoughts
 

@@ -9,8 +9,8 @@ tags:
 ---
 
 > Do you keep business informed? Business won't know when things are not working
-  out unless you tell them. It is surprising how much support we can get
-  when we open honest channels of communication.
+> out unless you tell them. It is surprising how much support we can get
+> when we open honest channels of communication.
 
 Let's say you've settled into a corporate. You start working on a story but you horribly misjudged
 its complexity. The deadline is looming but you just can't figure it out.
@@ -37,7 +37,7 @@ People can't read minds. At least not in my experience. If they can, they hide
 it well. Regardless, if you allow intrusions, it will continue.
 
 People don't wake up each morning thinking of ways to get you worked up.
-*At least I hope not!* They generally have reasons for interrupting you -
+_At least I hope not!_ They generally have reasons for interrupting you -
 whether they are important or not is often <a href="#understanding-human-beings">debatable</a>.
 
 I strongly recommend you communicate your expectations with those around you.
@@ -56,7 +56,7 @@ informed. They have to report to a bunch of other business people and if they
 are in the dark, they **will** hunt you down.
 
 > It's simple: have open and honest [communication](http://study.com/academy/lesson/open-communication-in-the-workplace-definition-skills-benefits.html)
-between your team and business.
+> between your team and business.
 
 Let's delve into some situations:
 
@@ -66,16 +66,16 @@ Interruptions don't disappear once you put steps into place. You need to "untrai
 what you have allowed in the past. You need to be strict with yourself and those
 around you.
 
-* Lean heavily on your scrum master for guidance and assistance.
-* Be mindful of emergencies and act accordingly.
-* If you are interrupted, communicate your expectations with that person.
-If the team is at fault and you can't deal with it immediately,
-bring it up directly after the next standup.
-* If it really gets out of hand, let your product owner know so that business
-expectations can be managed and you can get more guidance.
+-   Lean heavily on your scrum master for guidance and assistance.
+-   Be mindful of emergencies and act accordingly.
+-   If you are interrupted, communicate your expectations with that person.
+    If the team is at fault and you can't deal with it immediately,
+    bring it up directly after the next standup.
+-   If it really gets out of hand, let your product owner know so that business
+    expectations can be managed and you can get more guidance.
 
 > Be aware that if you whine about interruptions without taking action, it could
-look like you are making excuses.
+> look like you are making excuses.
 
 ### Underestimated complexity
 
@@ -101,14 +101,14 @@ be an adventure.
 
 #### Understanding business value
 
-Trying to fix everything in production *(especially if you are new to a product)*,
+Trying to fix everything in production _(especially if you are new to a product)_,
 could waste valuable time and increase stress. You need to understand the business value
 attached to it. Say you start fixing it only to find out that:
 
-* The product or feature is obsolete.
-* You should be working on something that has a bigger impact on customers or business.
-* There are more pressing issues that need immediate attention.
-* Another team is already working on it.
+-   The product or feature is obsolete.
+-   You should be working on something that has a bigger impact on customers or business.
+-   There are more pressing issues that need immediate attention.
+-   Another team is already working on it.
 
 You definitely need guidance from business.
 
