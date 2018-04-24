@@ -29,9 +29,9 @@
 }
 
 .nav-closed .nav {
-    -webkit-transform: translate3d(97px, 0, 0);
-    -ms-transform: translate3d(97px, 0, 0);
-    transform: translate3d(97px, 0, 0);
+    -webkit-transform: translate3d(300px, 0, 0);
+    -ms-transform: translate3d(300px, 0, 0);
+    transform: translate3d(300px, 0, 0);
 }
 
 .nav-opened .nav {
