@@ -33,6 +33,7 @@
 
 .post-title a {
     text-decoration: none;
+    font-size: 0.75em;
 }
 
 /* Possibly not the right home for this, make sure to move sized versions as well */

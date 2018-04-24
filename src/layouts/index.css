@@ -248,6 +248,7 @@ body {
     color: #b2c1d1;
     background-color: #1E2832;
     text-rendering: geometricPrecision;
+    text-shadow: 1px 1px 2px #000;
 }
 
 ::-moz-selection {

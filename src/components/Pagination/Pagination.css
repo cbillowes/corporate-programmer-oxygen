@@ -3,10 +3,8 @@
     width: 80%;
     max-width: 710px;
     margin: 4rem auto;
-    font-family: "Open Sans", sans-serif;
-    font-size: 1.3rem;
-    color: #9eabb3;
     text-align: center;
+    color: #9eabb3;
 }
 
 .pagination a {
@@ -26,7 +24,6 @@
     position: absolute;
     display: inline-block;
     padding: 0 15px;
-    border: #bfc8cd 1px solid;
     text-decoration: none;
     border-radius: 4px;
     transition: border 0.3s ease;
@@ -40,10 +37,10 @@
     left: 0;
 }
 
-.older-posts:hover,
-.newer-posts:hover {
-    color: #889093;
-    border-color: #98a0a4;
+a.older-posts:hover,
+a.newer-posts:hover {
+    color: #fff;
+    background-color: #CC334F;
 }
 
 /* ==========================================================================
