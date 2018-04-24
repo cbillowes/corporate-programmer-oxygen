@@ -9,12 +9,17 @@
     width: 140px;
 }
 
+.post-footer .SocialMediaShareButton  {
+    margin: 1rem 1.6rem 1.6rem 0;
+    line-height: 0px;
+}
+
 .post-footer .share a {
     font-size: 1.8rem;
-    display: inline-block;
-    margin: 1rem 1.6rem 1.6rem 0;
     color: #bbc7cc;
     text-decoration: none;
+    cursor: pointer;
+    line-height: 0px;
 }
 
 .post-footer .share .icon-twitter:hover {
