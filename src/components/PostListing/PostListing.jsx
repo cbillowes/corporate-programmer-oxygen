@@ -49,14 +49,12 @@ class PostListing extends React.Component {
                 <p>
                   {excerpt}{" "}
                   <Link className="read-more" to={path}>
-                    &raquo;
+                    Read more
                   </Link>
                 </p>
               </section>
               <footer className="post-meta">
-                <AuthorThumbnail avatar={author.image} name={author.name} />
-                <AuthorLink url={`/author/${author.id}`} name={author.name} />
-                <PostTags prefix=" on " tags={tags} />
+                <PostTags tags={tags} />
                 <PostDate date={date} />
               </footer>
             </PostFormatting>
