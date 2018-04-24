@@ -67,7 +67,11 @@ div.page-template .post-title {
     line-height: 2.2rem;
     color: #9eabb3;
     margin-bottom: 1em;
-    padding-top: 1.75em;
+    font-size: 0.75em;
+}
+
+.post-template .post-meta {
+    padding-top: 24px;
 }
 
 .post-meta a {
