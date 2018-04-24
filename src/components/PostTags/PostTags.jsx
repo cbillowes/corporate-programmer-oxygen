@@ -11,11 +11,10 @@ class PostTags extends Component {
         <span>
           {prefix}
           {tags.map((tag, index, arr) => (
-            <span key={tag}>
+            <span key={tag} className="tag">
               <Link key={tag} to={`/tags/${_.kebabCase(tag)}`}>
                 {tag}
               </Link>
-              {index !== arr.length - 1 ? ", " : ""}
             </span>
           ))}
         </span>

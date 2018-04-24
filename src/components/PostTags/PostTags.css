@@ -1,2 +1,20 @@
-/** empty css file for component consistency **/
+.post-meta .tag {
+    padding: .2em .6em .3em;
+    font-weight: 700;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+    background-color: #337ab7;
+    margin-right: 0.5em;
+}
+
+.post-meta .tag a,
+.post-meta .tag a:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+.post-meta .tag:hover {
+    background-color: #CC334F;
+}
 
