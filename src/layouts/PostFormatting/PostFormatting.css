@@ -5,7 +5,7 @@
     max-width: 710px;
     margin: 4rem auto;
     padding-bottom: 4rem;
-    border-bottom: #ebf2f6 1px solid;
+    border-bottom: #1a232c 1px solid;
     word-wrap: break-word;
 }
 
@@ -16,14 +16,19 @@
     content: "";
     width: 7px;
     height: 7px;
-    border: #e7eef2 1px solid;
+    border: #1a232c 2px solid;
     position: absolute;
     bottom: -5px;
-    left: 50%;
+    right: 25px;
     margin-left: -5px;
-    background: #fff;
+    background: #3E8FB0;
     border-radius: 100%;
-    box-shadow: #fff 0 0 0 5px;
+    box-shadow: #1a232c 0 0 0 5px;
+}
+
+.post:hover::after {
+    background: #CC334F;
+    border: #CC334F 2px solid;
 }
 
 .post-title a {
