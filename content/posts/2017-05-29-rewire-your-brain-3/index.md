@@ -374,10 +374,10 @@ and [Google Books](https://books.google.co.za/books/about/The_Dialectical_Behavi
 -   [Nature sounds or ambiance](https://www.calmsound.com/),
     Calmsound - Free nature sounds, the oasis of relaxation.
 
-[negative-reinforcing-loop-past]: images/rewire-your-brain-3/negative-reinforcing-loop-past.jpg "I think about the past ↔ I regret thinking about the past"
+[negative-reinforcing-loop-past]: /images/rewire-your-brain-3/negative-reinforcing-loop-past.jpg "I think about the past ↔ I regret thinking about the past"
 
-[negative-reinforcing-loop-victim]: images/rewire-your-brain-3/negative-reinforcing-loop-victim.jpg "Blame, anger and criticize ↔ Pain and suffering"
+[negative-reinforcing-loop-victim]: /images/rewire-your-brain-3/negative-reinforcing-loop-victim.jpg "Blame, anger and criticize ↔ Pain and suffering"
 
-[keep-calm-distract]: images/rewire-your-brain-3/keep-calm-distract.jpg "Keep calm and distract yourself"
+[keep-calm-distract]: /images/rewire-your-brain-3/keep-calm-distract.jpg "Keep calm and distract yourself"
 
-[keep-calm-relax]: images/rewire-your-brain-3/keep-calm-relax.jpg "Keep calm and Relax and Soothe Yourself"
+[keep-calm-relax]: /images/rewire-your-brain-3/keep-calm-relax.jpg "Keep calm and Relax and Soothe Yourself"

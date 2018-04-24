@@ -38,7 +38,7 @@ Let's take a simple example. I have a fear of missing out or what people
 these days call FOMO. So I tend to fight sleep. Obviously I wake up feeling
 exhausted the next day and don't get to enjoy it to its fullest because I'm tired.
 
-<span class="figure">![alt text][bad-sleep]</span>
+<span class="figure">![Cycle][bad-sleep]</span>
 <span class="figure-caption">Reinforcing loop for bad sleep patterns</span>
 
 Sleep should be a priority. It affects physical health and daytime performance
@@ -60,7 +60,7 @@ going on what you think is right.
 It's important to be objective and look at the facts - consider all angles but 
 make a choice.
 
-<span class="figure">![alt text][bad-decision-making]</span>
+<span class="figure">![Cycle][bad-decision-making]</span>
 <span class="figure-caption">Reinforcing loop for bad decision making</span>
 
 -   Formulate your own opinions and decisions
@@ -71,7 +71,7 @@ make a choice.
 Apart from improving quality of life, physical activity has immediate and long-term
 health benefits like reducing the risk of developing several diseases.
 
-<span class="figure">![alt text][no-exercise]</span>
+<span class="figure">![Cycle][no-exercise]</span>
 <span class="figure-caption">Reinforcing loop for no exercise</span>
 
 _Aim for at least 30 minutes of physical activity every day.
@@ -132,8 +132,8 @@ Over and above negative reinforcing loops it's important to
 -   [18 habits of highly successful people](http://www.businessinsider.com/habits-of-highly-successful-people-2016-12),
     Business Insider, Shana Lebowitz, December 30, 2016
 
-[bad-sleep]: images/rewire-your-brain-7/reinforcing-loop-for-bad-sleep.jpg "Reinforcing loop for bad sleep patterns"
+[bad-sleep]: /images/rewire-your-brain-7/reinforcing-loop-for-bad-sleep.jpg "Reinforcing loop for bad sleep patterns"
 
-[bad-decision-making]: images/rewire-your-brain-7/reinforcing-loop-for-bad-sleep.jpg "Reinforcing loop for bad decision making"
+[bad-decision-making]: /images/rewire-your-brain-7/reinforcing-loop-for-bad-decisions.jpg "Reinforcing loop for bad decision making"
 
-[no-exercise]: images/rewire-your-brain-7/reinforcing-loop-for-no-exercise.jpg "Reinforcing loop for no exercise"
+[no-exercise]: /images/rewire-your-brain-7/reinforcing-loop-for-no-exercise.jpg "Reinforcing loop for no exercise"

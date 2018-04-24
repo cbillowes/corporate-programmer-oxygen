@@ -184,18 +184,18 @@ can impact us and how we can get to a point where we can thrive.
 
 <div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="\_blank">CC 3.0 BY</a></div>
 
-[satir-change-graph]: images/rewire-your-brain-5/satir-change-graph.png "Virginia Satir Change Curve"
+[satir-change-graph]: /images/rewire-your-brain-5/satir-change-graph.png "Virginia Satir Change Curve"
 
-[late-status-quo]: images/rewire-your-brain-5/late-status-quo.png "The Late Status Quo"
+[late-status-quo]: /images/rewire-your-brain-5/late-status-quo.png "The Late Status Quo"
 
-[foreign-element]: images/rewire-your-brain-5/foreign-element.png "The Foreign Element"
+[foreign-element]: /images/rewire-your-brain-5/foreign-element.png "The Foreign Element"
 
-[chaos]: images/rewire-your-brain-5/chaos.png "The Stage of Chaos"
+[chaos]: /images/rewire-your-brain-5/chaos.png "The Stage of Chaos"
 
-[transforming-idea]: images/rewire-your-brain-5/transforming-idea.png "The Transforming Idea"
+[transforming-idea]: /images/rewire-your-brain-5/transforming-idea.png "The Transforming Idea"
 
-[practice]: images/rewire-your-brain-5/practice.png "Practice & Integration"
+[practice]: /images/rewire-your-brain-5/practice.png "Practice & Integration"
 
-[new-status-quo]: images/rewire-your-brain-5/new-status-quo.png "The New Status Quo"
+[new-status-quo]: /images/rewire-your-brain-5/new-status-quo.png "The New Status Quo"
 
-[satir-change-model-cycle]: images/rewire-your-brain-5/satir-change-model-cycle.png "Virginia Satir Change Curve"
+[satir-change-model-cycle]: /images/rewire-your-brain-5/satir-change-model-cycle.png "Virginia Satir Change Curve"
