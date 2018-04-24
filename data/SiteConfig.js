@@ -10,12 +10,12 @@ module.exports = {
   siteDescription: "Journal entries for self-discovery and corporate world experience.",
   siteCover: "https://picsum.photos/1920/639/?image=983",
   siteNavigation: true, // If navigation is enabled the Menu button will be visible
-  siteRss: "/rss.xml", // Path to the RSS file.
-  siteRssAuthor: "Casper User", // The author name used in the RSS file
-  // siteFBAppID: "1825356251115265", // optional, sets the FB Application ID for using app insights
-  sitePaginationLimit: 10, // The max number of posts per page.
-  googleAnalyticsID: "UA-111982167-1", // GA tracking ID.
-  // disqusShortname: "https-vagr9k-github-io-gatsby-advanced-starter", // enables Disqus comments, visually deviates from original Casper theme.
+  siteRss: "/feed.xml",
+  siteRssAuthor: "Clarice Bouwer",
+  siteFBAppID: "1685950495005107",
+  sitePaginationLimit: 5,
+  googleAnalyticsID: "UA-77127562-1",
+  disqusShortname: "corporateprogrammer",
   siteSocialUrls: [
     { url: "https://github.com/cbillowes", type: "github" },
     { url: "https://twitter.com/cbillowes", type: "twitter" },
@@ -26,25 +26,22 @@ module.exports = {
   userLinks: [
     {
       label: "GitHub",
-      url: "https://github.com/haysclark/gatsby-starter-casper",
+      url: "https://github.com/cbillowes",
       iconClassName: "fa fa-github" // Disabled, see Navigation.jsx
     },
     {
       label: "Twitter",
-      url: "https://twitter.com/gatsbyjs",
+      url: "https://twitter.com/cbillowes",
       iconClassName: "fa fa-twitter" // Disabled, see Navigation.jsx
     },
     {
       label: "Email",
-      url: "mailto:gatsbyjs@example.com",
+      url: "mailto:hello@corporateprogrammer.com",
       iconClassName: "fa fa-envelope" // Disabled, see Navigation.jsx
     }
   ],
-  // Copyright string for the footer of the website and RSS feed.
   copyright: {
-    label: "Gatsby Casper Starter" // Label used before the year
-    // year: "2018" // optional, set specific copyright year or range of years, defaults to current year
-    // url: "https://www.gatsbyjs.org/" // optional, set link address of copyright, defaults to site root
+    label: "Corporate Programmer"
   },
   themeColor: "#c62828", // Used for setting manifest and progress theme colors.
   backgroundColor: "#e0e0e0", // Used for setting manifest background color.
