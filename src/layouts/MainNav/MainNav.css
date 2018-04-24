@@ -1,8 +1,8 @@
 
 .main-nav {
+    position: fixed;
     padding: 35px 40px;
     margin: 0 0 30px;
-    position: absolute;
     top: 0;
     left: 0;
     right: 0;
@@ -17,7 +17,7 @@
 
 /* Special styles when overlaid on an image */
 .main-nav.overlay {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     right: 0;
