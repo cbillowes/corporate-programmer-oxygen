@@ -300,6 +300,10 @@ h6 {
     font-size: 2rem;
 }
 
+h2 + h3 {
+    margin-top: 1em;
+}
+
 a {
     color: #3E8FB0;
     transition: color 0.3s ease;
