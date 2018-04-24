@@ -19,7 +19,7 @@ class PaginationLink extends React.Component {
       delete rest.url;
 
       return (
-        <Link to={this.props.url} {...rest} className={className}>
+        <Link to={[this.props.url + "#content"]} {...rest} className={className}>
           {this.props.text}
         </Link>
       );
