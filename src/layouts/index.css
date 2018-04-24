@@ -630,6 +630,18 @@ button {
     display: block;
 }
 
+.figure.figure-left {
+    float: left;
+    margin-right: 25px;
+    margin-bottom: 25px;
+}
+
+.figure.figure-right {
+    float: right;
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+
 .figure-caption {
     font-size: 0.75em;
     display: block;
