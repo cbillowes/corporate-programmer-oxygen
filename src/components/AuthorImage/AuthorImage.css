@@ -12,9 +12,14 @@
     border-radius: 100%;
     overflow: hidden;
     padding: 6px;
-    background: #fff;
+    background: #1E2832;
     z-index: 2;
-    box-shadow: #e7eef2 0 0 0 1px;
+    box-shadow: #1E2832 0 0 0 1px;
+}
+
+.author-image:hover {
+    background: #CC334F;
+    box-shadow: #CC334F 0 0 0 1px;
 }
 
 .author-image .img {
