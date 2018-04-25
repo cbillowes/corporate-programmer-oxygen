@@ -39,24 +39,27 @@ class PostListing extends React.Component {
 
           return (
             <PostFormatting className={className} key={title} cover={cover}>
-              <PostHeader>
-                <h2 className="post-title">
-                  <Link to={path}>{title}</Link>
-                </h2>
-              </PostHeader>
-              <section className="post-meta">
-                <PostTags tags={tags} />
-                <PostDate date={date} />
-              </section>
-              <section className="post-excerpt">
-                {/* TODO limit excerpt to 26 words */}
-                <p>
-                  {excerpt}{" "}
-                  <Link className="read-more" to={path}>
-                    Read more
+              <div className="overlay"></div>
+              <div className="content">
+                <PostHeader>
+                  <h2 className="post-title">
+                    <Link to={path}>{title}</Link>
+                  </h2>
+                </PostHeader>
+                <section className="post-meta">
+                  <PostTags tags={tags} />
+                  <PostDate date={date} />
+                </section>
+                <section className="post-excerpt">
+                  {/* TODO limit excerpt to 26 words */}
+                  <p>
+                    {excerpt}{" "}
+                    <Link className="read-more" to={path}>
+                      Read more
                   </Link>
-                </p>
-              </section>
+                  </p>
+                </section>
+              </div>  
             </PostFormatting>
           );
         })}
