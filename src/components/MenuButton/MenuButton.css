@@ -39,13 +39,13 @@
 
 /* When the navigation is closed and there is no cover image */
 .nav-closed .no-cover .menu-button {
-    border-color: #bfc8cd;
-    color: #9eabb3;
+    border-color: #fff;
+    color: #fff;
 }
 
 .nav-closed .no-cover .menu-button:hover {
-    border-color: #555;
-    color: #555;
+    border-color: #fff;
+    color: #fff;
 }
 
 /* When the navigation is opened */
