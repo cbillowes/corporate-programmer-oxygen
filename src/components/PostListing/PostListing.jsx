@@ -34,11 +34,11 @@ class PostListing extends React.Component {
       <div>
         {/* This is the post loop - each post will be output using this markup */}
         {postList.map(post => {
-          const { title, path, excerpt, author, tags, date } = post;
+          const { title, path, excerpt, author, tags, date, cover } = post;
           const className = post.post_class ? post.post_class : "post";
 
           return (
-            <PostFormatting className={className} key={title}>
+            <PostFormatting className={className} key={title} cover={cover}>
               <PostHeader>
                 <h2 className="post-title">
                   <Link to={path}>{title}</Link>
