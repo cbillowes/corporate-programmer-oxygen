@@ -8,8 +8,9 @@
     text-align: center;
     background: #222 no-repeat center center;
     border-bottom: solid 5px #3E8FB0;
-    background-size: cover;
     overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.6);
+    background-size: cover;
 }
 
 .main-header .inner {
@@ -57,11 +58,14 @@
 .tag-head.main-header {
     height: 40vh;
     min-height: 180px;
+    background-image: url('https://placeimg.com/1000/300/tech/grayscale');
+    background-size: cover;
 }
 
 .author-head.main-header {
     height: 40vh;
     min-height: 180px;
+    background-size: cover;
 }
 
 .no-cover.author-head.main-header {
